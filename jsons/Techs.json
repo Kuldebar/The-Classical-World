@@ -210,9 +210,9 @@
 		]
 	},
 	{
-		//column number change 7 from 6
-		"columnNumber": 7,
-		"era": "Medieval era",
+	
+		"columnNumber":6,
+		"era": "Classical era",
 		"techCost": 485,
 		"buildingCost": 160,
 		"wonderCost": 400,
@@ -222,10 +222,35 @@
 				"cost": 375,
 				"row": 1,
 				"prerequisites": ["Optics","Theology"],
-				"uniques": ["Only available <before discovering [Agriculture]>"],
+				//"uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
 			},
 			{
+				"name": "Astronomy",
+				"row": 2,
+				"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
+				"prerequisites": ["Compass"],
+				//"uniques": ["Only available <before discovering [Agriculture]>"],
+				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
+			},
+			{				
+				"name": "Banking",
+				"row": 3,
+				"prerequisites": ["Civil Service","Guilds"],
+				//"uniques": ["Only available <before discovering [Agriculture]>"],			
+				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
+			},
+			{	
+		"columnNumber": 7,
+		//changed to Classical Era
+		"era": "Classical era",
+		"techCost": 780,
+		"buildingCost": 200,
+		"wonderCost": 500,
+		"techs": [
+			{				
+				
+				
 				"name": "Education",
 				"row": 3,
 				"prerequisites": ["Theology","Civil Service"],
@@ -265,22 +290,22 @@
 		]
 	},
 	{
-		//column number change to 6 from 7
-		"columnNumber": 6,
-		//changed to Classical Era
-		"era": "Classical era",
-		"techCost": 780,
-		"buildingCost": 200,
-		"wonderCost": 500,
-		"techs": [
-			{
-				"name": "Astronomy",
-				"row": 2,
-				"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
-				"prerequisites": ["Compass","Education"],
-				"uniques": ["Only available <before discovering [Agriculture]>"],
-				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
-			},
+		
+//		"columnNumber": 7,
+//		//changed to Classical Era
+//		"era": "Classical era",
+//		"techCost": 780,
+//		"buildingCost": 200,
+//		"wonderCost": 500,
+//		"techs": [
+//			{
+				//"name": "Astronomy",
+				//"row": 2,
+				//"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
+				//"prerequisites": ["Compass"],
+				//"uniques": ["Only available <before discovering [Agriculture]>"],
+				//"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
+		//	},
 			{
 				"name": "Acoustics",
 				"row": 4,
@@ -289,13 +314,14 @@
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
 			{
-				"name": "Banking",
-				"row": 6,
-				"prerequisites": ["Civil Service","Guilds"],
+				
+				//"name": "Banking",
+				//"row": 6,
+				//"prerequisites": ["Civil Service","Guilds"],
 				//"uniques": ["Only available <before discovering [Agriculture]>"],			
-				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
-			},
-			{
+				//"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
+			//},
+			//{
 				"name": "Printing Press",
 				"row": 8,
 				"prerequisites": ["Machinery","Physics","Chivalry"],
@@ -313,7 +339,8 @@
 	},
 	{
 		"columnNumber": 8,
-		"era": "Renaissance era",
+		//change to Future Era
+		"era": "Future era",
 		"techCost": 1150,
 		"buildingCost": 250,
 		"wonderCost": 625,
@@ -357,7 +384,8 @@
 	},
 	{
 		"columnNumber": 9,
-		"era": "Industrial era",
+		//changed to Future Era
+		"era": "Future era",
 		"techCost": 1600,
 		"buildingCost": 300,
 		"wonderCost": 750,
@@ -408,7 +436,8 @@
 	},
 	{
 		"columnNumber": 10,
-		"era": "Industrial era",
+		//changed to Future Era
+		"era": "Future era",
 		"techCost": 2350,
 		"buildingCost": 360,
 		"wonderCost": 900, // Note that this column doesn't actually have any wonders. This just continues the wonderCost = 2.5 * buildingCost pattern from the last few columns.
@@ -446,7 +475,8 @@
 	},
 	{
 		"columnNumber": 11,
-		"era": "Modern era",
+		//changed to Future Era
+		"era": "Future era",
 		"techCost": 3100,
 		"buildingCost": 500,
 		"wonderCost": 1060,
@@ -490,7 +520,8 @@
 	},
 	{
 		"columnNumber": 12,
-		"era": "Modern era",
+		//changed to Future Era
+		"era": "Future era",
 		"techCost": 4100,
 		"buildingCost": 500,
 		"wonderCost": 1250,
@@ -527,7 +558,8 @@
 	},
 	{
 		"columnNumber": 13,
-		"era": "Atomic era",
+		//changed to Future Era
+		"era": "Future era",
 		"techCost": 5100,
 		"buildingCost": 500,
 		"wonderCost": 1250,
@@ -564,7 +596,8 @@
 	},
 	{
 		"columnNumber": 14,
-		"era": "Atomic era",
+		//changed to Future Era
+		"era": "Future era",
 		"techCost": 6400,
 		"buildingCost": 500,
 		"wonderCost": 1250,
@@ -601,7 +634,8 @@
 	},
 	{
 		"columnNumber": 15,
-		"era": "Information era",
+		//changed to Future Era
+		"era": "Future era",
 		"techCost": 7700,
 		"buildingCost": 750,
 		"wonderCost": 1250,
@@ -654,7 +688,8 @@
 
 	{
 		"columnNumber": 16,
-		"era": "Information era",
+		//changed to Future Era
+		"era": "Future era",
 		"techCost": 8800,
 		"buildingCost": 750,
 		"wonderCost": 1250,
