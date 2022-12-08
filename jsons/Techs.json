@@ -222,8 +222,10 @@
 				"prerequisites": ["Guilds", "Civil Service"],
         //"uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
-			},
-			{
+			}
+			]
+		],
+		{
 		
 		
 		
