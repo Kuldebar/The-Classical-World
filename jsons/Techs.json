@@ -210,6 +210,25 @@
 	},
 	{
 		"columnNumber": 6,
+		"era": "Classical era",
+		"techCost": 485,
+		"buildingCost": 160,
+		"wonderCost": 400,
+		"techs": [
+			{
+				"name": "Banking",
+				"row": 3,
+				//change prereqs from "prerequisites": ["Chivalry", "Education"],
+				"prerequisites": ["Guilds", "Civil Service],
+        //"uniques": ["Only available <before discovering [Agriculture]>"],
+				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
+			},
+			{
+		
+		
+		
+		
+		"columnNumber": 7,
 		"era": "Medieval era",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -263,7 +282,7 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		"columnNumber": 8,
 		"era": "Renaissance era",
 		"techCost": 780,
 		"buildingCost": 200,
@@ -284,14 +303,15 @@
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
-			{
-				"name": "Banking",
-				"row": 6,
-				"prerequisites": ["Chivalry", "Education"],
-        "uniques": ["Only available <before discovering [Agriculture]>"],
-				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
-			},
-			{
+			{				
+			//	"name": "Banking",
+			//	"row": 6,
+			//	//change prereqs from "prerequisites": ["Chivalry", "Education"],
+			//	"prerequisites": ["Guilds", "Civil Service],
+        //"uniques": ["Only available <before discovering [Agriculture]>"],
+		//		"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
+		//	},
+		//	{
 				"name": "Printing Press",
 				"row": 8,
 				"prerequisites": ["Machinery","Physics","Chivalry"],
@@ -308,7 +328,7 @@
 		]
 	},
 	{
-		"columnNumber": 8,
+		"columnNumber": 9,
 		"era": "Renaissance era",
 		"techCost": 1150,
 		"buildingCost": 250,
@@ -352,7 +372,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Industrial era",
 		"techCost": 1600,
 		"buildingCost": 300,
@@ -403,7 +423,7 @@
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 11,
 		"era": "Industrial era",
 		"techCost": 2350,
 		"buildingCost": 360,
@@ -441,7 +461,7 @@
 		]
 	},
 	{
-		"columnNumber": 11,
+		"columnNumber": 12,
 		"era": "Modern era",
 		"techCost": 3100,
 		"buildingCost": 500,
@@ -485,7 +505,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
 		"era": "Modern era",
 		"techCost": 4100,
 		"buildingCost": 500,
@@ -522,7 +542,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 5100,
 		"buildingCost": 500,
@@ -559,7 +579,7 @@
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Atomic era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -596,7 +616,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Information era",
 		"techCost": 7700,
 		"buildingCost": 750,
@@ -649,7 +669,7 @@
 	},
 
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Information era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -693,7 +713,7 @@
 		]
 	},
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Future era",
 		"techCost": 9500,
 		"buildingCost": 750,
