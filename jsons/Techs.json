@@ -265,7 +265,7 @@
 	},
 	{
 		"columnNumber": 7,
-		//Changed to Classical Era
+		//changed to Classical Era
 		"era": "Classical era",
 		"techCost": 780,
 		"buildingCost": 200,
@@ -275,8 +275,8 @@
 				"name": "Astronomy",
 				"row": 2,
 				"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
-				"prerequisites": ["Philosophy","Optics"],
-				//"uniques": ["Only available <before discovering [Agriculture]>"],
+				"prerequisites": ["Compass","Education"],
+				"uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer"
 			},
 			{
@@ -289,7 +289,7 @@
 			{
 				"name": "Banking",
 				"row": 6,
-				"prerequisites": ["Civil Service", "Currency"],
+				"prerequisites": ["Civil Service","Guilds"],
 				//"uniques": ["Only available <before discovering [Agriculture]>"],			
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
