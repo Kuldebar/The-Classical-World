@@ -210,7 +210,8 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		//column number change 7 from 6
+		"columnNumber": 7,
 		"era": "Medieval era",
 		"techCost": 485,
 		"buildingCost": 160,
@@ -264,7 +265,8 @@
 		]
 	},
 	{
-		"columnNumber": 7,
+		//column number change to 6 from 7
+		"columnNumber": 6,
 		//changed to Classical Era
 		"era": "Classical era",
 		"techCost": 780,
