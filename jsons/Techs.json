@@ -221,8 +221,10 @@
 				//change prereqs from "prerequisites": ["Chivalry", "Education"],
 				"prerequisites": ["Guilds", "Civil Service"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
-			},
-	    {
+			}
+		]	
+	},
+	{
 		"columnNumber": 7,
 		"era": "Classical era",
     "techCost": 550,
@@ -236,21 +238,14 @@
 				"prerequisites": ["Banking"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'He who forgets his past is lost.' - African Proverb"
-	    },
-	    {
+	    }
+	    
 
 		]
 		
-		
-		
-		
-		//--------------------------------------------[Dark Age Interregnum Era]---------
+//--------------------------------------------[Dark Age Interregnum Era]---------
 	},
-	{
-		
-		
-		
-		
+	{		
 		"columnNumber": 8,
 		"era": "Medieval era",
 		"techCost": 485,
