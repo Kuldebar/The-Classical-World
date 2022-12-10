@@ -317,7 +317,7 @@
 			{
 				"name": "Acoustics",
 				"row": 4,
-				"prerequisites": ["Education"],
+				"prerequisites": ["Scholarly Recordkeeping"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Their rising all at once was as the sound of thunder heard remote' - Milton"
 			},
@@ -369,7 +369,7 @@
 			{
 				"name": "Economics",
 				"row": 6,
-				"prerequisites": ["Banking","Printing Press"],
+				"prerequisites": ["Scholarly Recordkeeping"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
