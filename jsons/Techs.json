@@ -218,7 +218,7 @@
 			{
         "name": "Cartography",
         "row": 1,
-        "prerequisites": ["Optics"],
+        "prerequisites": ["Guilds"],
         "uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
 				"quote": "'Not all those who wander are lost' - J.R.R. Tolkien"
       },
@@ -346,7 +346,7 @@
 			{
 				"name": "Printing Press",
 				"row": 8,
-				"prerequisites": ["Scholarly Recordkeeping","Physics","Chivalry"],
+				"prerequisites": ["Scholarly Recordkeeping","Chivalry"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'It is a newspaper's duty to print the news and raise hell.' - The Chicago Times"
 			},
