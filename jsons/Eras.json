@@ -33,7 +33,7 @@
         "iconRGB": [233, 31, 99]
     },
     {        
-        "name": "Unknown Future era",
+        "name": "Unknown era",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
