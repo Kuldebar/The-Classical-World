@@ -219,7 +219,7 @@
         "name": "Cartography",
         "row": 1,
         "prerequisites": ["Guilds","Optics"],
-       // "uniques": ["[+1] Movement <for [Embarked] units>"],
+        "uniques": ["[+1] Movement <for [Embarked] units>","Reveals the entire map"],
 				"quote": "'Not all those who wander are lost' - J.R.R. Tolkien"
       },
       {
@@ -247,9 +247,9 @@
 		
 		"techs": [
 		  {
-		    "name": "Scholarly Recordkeeping",
+		    "name": "Scholarly Recordkeeping"],
 				"row": 5,
-				"prerequisites": ["Banking"],
+				"prerequisites": ["Banking","Machinery","Cartography"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'He who forgets his past is lost.' - African Proverb"
 	    }
