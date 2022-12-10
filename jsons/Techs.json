@@ -232,7 +232,7 @@
       {
 				"name": "Machinery",
 				"row": 9,
-				"prerequisites": ["Metal Casting","Guilds],
+				"prerequisites": ["Metal Casting","Guilds"],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'Give me a place to stand,and I will move the world.' - Archimedes"
 			}
