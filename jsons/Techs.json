@@ -217,7 +217,7 @@
 		"techs": [
 			{
 				"name": "Banking",
-				"row": 6,
+				"row": 5,
 				//change prereqs from "prerequisites": ["Chivalry", "Education"],
 				"prerequisites": ["Guilds", "Civil Service"],
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
@@ -739,8 +739,9 @@
 		"techs": [
 			{
 				"name": "Future Tech",
-				"row": 5				"prerequisites": ["Globalization","Particle Physics", "Nuclear Fusion", "Nanotechnology", "Stealth"],
-        "uniques": ["Only available <before discovering [Agriculture]>"],
+				"row": 5,				
+				"prerequisites": ["Globalization","Particle Physics", "Nuclear Fusion", "Nanotechnology", "Stealth"],
+        			"uniques": ["Only available <before discovering [Agriculture]>"],
 				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George W. Bush"
 			}
