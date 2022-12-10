@@ -33,7 +33,7 @@
         "iconRGB": [233, 31, 99]
     },
     {        
-        "name": "Medieval era",
+        "name": "Unknown era",
         "researchAgreementCost": 250,
         "startingSettlerCount": 2,
         "startingWorkerCount": 1,
