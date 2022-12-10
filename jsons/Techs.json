@@ -219,7 +219,7 @@
         "name": "Cartography",
         "row": 1,
         "prerequisites": ["Guilds","Optics"],
-        "uniques": ["[+1] Movement <for [Embarked] units>"],
+       // "uniques": ["[+1] Movement <for [Embarked] units>"],
 				"quote": "'Not all those who wander are lost' - J.R.R. Tolkien"
       },
       {
