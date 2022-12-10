@@ -227,7 +227,7 @@
 				"row": 5,
 				//change prereqs from "prerequisites": ["Chivalry", "Education"],
 				"prerequisites": ["Guilds", "Civil Service"],
-				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
+				"quote": "'I believe that banking institutions are more dangerous to our liberties than standing armies.' – Thomas Jefferson"
       },
       {
 				"name": "Machinery",
