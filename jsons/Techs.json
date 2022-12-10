@@ -218,7 +218,7 @@
 			{
         "name": "Cartography",
         "row": 1,
-        "prerequisites": ["Guilds"],
+        "prerequisites": ["Guilds","Optics"],
         "uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"],
 				"quote": "'Not all those who wander are lost' - J.R.R. Tolkien"
       },
@@ -232,7 +232,7 @@
       {
 				"name": "Machinery",
 				"row": 9,
-				"prerequisites": ["Metal Casting"],
+				"prerequisites": ["Metal Casting","Guilds],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'Give me a place to stand,and I will move the world.' - Archimedes"
 			}
