@@ -151,6 +151,13 @@
 				"row": 3,
 				"prerequisites": ["Writing"],
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
+			},	
+			{	
+				"name": "Public Works",
+				"row": 5,
+				"prerequisites": ["Horseback Riding"],
+				 "uniques": ["[+1 Happiness, +1 Food]"
+				"quote": "'Give them bread and circuses and they will never revolt.' - Juvenal"
 			},
 			{
 				"name": "Currency",
@@ -189,7 +196,7 @@
 			{
 				"name": "Civil Service",
 				"row": 5,
-				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
+				"prerequisites": ["Currency","Public Works","Drama and Poetry"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
