@@ -31,8 +31,8 @@
         "startPercent": 10,
         "citySound": "cityClassical",
         "iconRGB": [233, 31, 99]
-//    },
-    {        
+    },
+ //   {        
        // "name": "Unknown era",
        // "researchAgreementCost": 250,
        // "startingSettlerCount": 2,
@@ -52,7 +52,7 @@
        // "startPercent": 25,
        // "citySound": "cityMedieval",
        //"iconRGB": [157, 39, 176]
-    }
+ //   }
         ]
     
 
