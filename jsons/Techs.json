@@ -247,7 +247,7 @@
 		
 		"techs": [
 		  {
-		    "name": "Scholarly Recordkeeping"],
+		    "name": "Scholarly Recordkeeping",
 				"row": 5,
 				"prerequisites": ["Banking","Machinery","Cartography"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
