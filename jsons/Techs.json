@@ -156,7 +156,7 @@
 				"name": "Public Works",
 				"row": 5,
 				"prerequisites": ["Horseback Riding"],
-				 "uniques": ["[+1 Happiness, +1 Food]"
+				"uniques": ["[+10]% growth [in all cities]"],
 				"quote": "'Give them bread and circuses and they will never revolt.' - Juvenal"
 			},
 			{
