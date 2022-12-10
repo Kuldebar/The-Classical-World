@@ -31,6 +31,22 @@
         "startPercent": 10,
         "citySound": "cityClassical",
         "iconRGB": [233, 31, 99]
+    },
+    {        
+        "name": "Unknown Future era",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1,
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 2,
+        "startingMilitaryUnit": "Spearman",
+        "startingGold": 10,
+        "startingCulture": 100,
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 4,
+        "startPercent": 10,
+        "citySound": "cityClassical",
+        "iconRGB": [233, 31, 99]
     }
         ]
     
