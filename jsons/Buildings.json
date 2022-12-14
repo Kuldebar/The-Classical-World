@@ -87,7 +87,7 @@
 		"requiredTech": "Masonry",
 	},
   {
-    "name":"Orrery",
+    "name": "Orrery",
     "cost"120,
     "maintenance": 4,
     "hurryCostModifier":50,
