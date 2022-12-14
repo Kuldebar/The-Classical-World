@@ -88,9 +88,9 @@
 	},
   {
     "name": "Orrery",
-    "cost"120,
+    "cost" 120,
     "maintenance": 4,
-    "hurryCostModifier":50,
+    "hurryCostModifier": 50,
 		"percentStatBonus": {"science": 5},
 		"specialistSlots": {"Scientist": 1},
     "requiredTech": "Astrology",
@@ -102,7 +102,6 @@
 		"maintenance": 2,
 		"requiredNearbyImprovedResources":["Sheep","Deer","Cattle","Horses"],
 		"requiredTech": "Food Processing",
-
 		},
 		{
 		"name": "Smokery",
@@ -111,7 +110,6 @@
 		"uniques": ["[+1 Food] from [Sheep] tiles [in this city]","[+1 Food] from [Cattle] tiles [in this city]","[+1 Food] from [Deer] tiles [in this city]","[+1 Food] from [Horses] tiles [in this city]"],
 		"requiredBuilding":"Slaughterhouse",
 		"requiredTech": "Food processing",
-
 	},
 	{
     "name": "Smelter",
