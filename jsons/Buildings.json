@@ -489,9 +489,7 @@
 		"requiredTech": "Construction",
 		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
 	},
-	// Column 4
 	{
-//  Inserted reqtech replacement for all Temple iterations
 		"name": "Temple",
 		"faith": 4,
     "happiness": 2,
@@ -640,6 +638,7 @@
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
+		"requiredTech": "Engineering",
 		"requiredBuilding": "Aqueduct",
 	},
 	{
@@ -824,17 +823,8 @@
 		"requiredBuilding": "Harbor",
 		"uniques": ["[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
 			"Must be next to [Coast]", "[+15]% Production when constructing [Water] units [in this city]"],
-		"requiredTech": "Navigation"
-	},
-	{
+		"requiredTech": "Navigation",
 
-	// All Eras
-
-		"name": "Utopia Project",
-		"cost": 1500,
-		"isNationalWonder": true,
-		"uniques": ["Hidden until [5] social policy branches have been completed", "Triggers a global alert upon build start",
-			"Triggers a Cultural Victory upon completion", "Hidden when [Cultural] Victory is disabled", "Cannot be hurried"]
 	},
 
 	// Religious buildings
