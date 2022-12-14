@@ -113,7 +113,7 @@
 	},
 	{
     "name": "Smelter",
-    "cost"180,
+    "cost":180,
     "maintenance": 4,
     "hurryCostModifier": 50,
 		"specialistSlots": {"Engineer": 1},
