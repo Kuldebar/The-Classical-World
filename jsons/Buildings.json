@@ -88,7 +88,7 @@
 	},
   {
     "name": "Orrery",
-    "cost" 120,
+    "cost": 120,
     "maintenance": 4,
     "hurryCostModifier": 50,
 		"percentStatBonus": {"science": 5},
