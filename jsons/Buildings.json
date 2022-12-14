@@ -144,7 +144,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"requiredTech": "Fermentation",
     "requiredNearbyImprovedResources": ["Wine"],
-		"uniques": ["[+4 Culture] from [Wine] tiles [in this city]","],
+		"uniques": ["[+4 Culture] from [Wine] tiles [in this city]"],
 		},
 		{
 		"name": "Apothecary",
