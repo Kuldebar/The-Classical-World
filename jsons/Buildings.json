@@ -633,8 +633,8 @@
 		"greatPersonPoints": {"Great Merchant": 1},
 		"isWonder": true,
 		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]"],
-		"requiredTech": "Smelting"
-	// Column 5
+		"requiredTech": "Smelting",
+	},
 	{
 		"name": "Garden",
 		"uniques": ["[+25]% Great Person generation [in this city]", "Must be next to [Fresh water]"],
