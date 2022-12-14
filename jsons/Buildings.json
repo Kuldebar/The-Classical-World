@@ -498,8 +498,7 @@
 		"requiredBuilding": "Shrine",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"requiredTech": "Construction"
-",
+		"requiredTech": "Construction",
 		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
 	},
 	{
