@@ -112,13 +112,13 @@
 	},
 	{
     "name": "Smelter",
-    "cost":180,
+    "cost":200,
     "maintenance": 4,
     "hurryCostModifier": 50,
 		"specialistSlots": {"Engineer": 1},
     "requiredTech": "Smelting"
-		"requiredNearbyImprovedResources": ["Iron","Copper","Gold","Silver"],
-		"uniques": ["[+1 Production] from [Iron] tiles [in this city]","[+1 Production] from [Copper] tiles [in this city]","[+1 Production] from [Gold] tiles [in this city]","[+1 Production] from [Silver] tiles [in this city]"],
+		"requiredNearbyImprovedResources": ["Iron","Copper"],
+		"uniques": ["+[20]% production when building [land units] in this city"],
     },
     {
     "name": "Brewery",
