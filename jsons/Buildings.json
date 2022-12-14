@@ -132,7 +132,7 @@
     "maintenance": 1,
     "resourceBonusStats": {"food": 1},
     "requiredNearbyImprovedResources": ["Wheat"],
-    "uniques":["[+4 Culture] from [Wheat] tiles [in this city]","],
+    "uniques":["[+4 Culture] from [Wheat] tiles [in this city]"],
     "requiredTech": "Fermentation",
     },
     {
