@@ -153,7 +153,6 @@
 		"maintenance": 1,
 		"requiredTech": "Medicine",
 		"uniques": ["[+2 Science] from [Wine] tiles [in this city]","[+2 Science] from [Spices] tiles [in this city]"],
-
 	},
 	{
 		"name": "Shrine",
