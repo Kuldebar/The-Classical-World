@@ -385,7 +385,7 @@
 			{
 				"name": "Optics",
 				"cost": 85,
-				"row": 1,
+				"row": 4,
 				"prerequisites": ["Scholarly Recordkeeping"],
 				//"uniques": ["Enables embarkation for land units"],
 				"uniques": ["Only available <before discovering [Agriculture]>"],
