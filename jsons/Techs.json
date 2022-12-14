@@ -381,14 +381,15 @@
 				"prerequisites": ["Scholarly Recordkeeping"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory"
-//			},
-//			{
-//				"name": "Machinery",
-//				"row": 8,
-//				"prerequisites": ["Scholarly Recordkeeping"],
-//				//"uniques": ["Improves movement speed on roads"],
-//        "uniques": ["Only available <before discovering [Agriculture]>"],
-//				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' //        - Thomas Jefferson"
+			},
+			{
+				"name": "Optics",
+				"cost": 85,
+				"row": 1,
+				"prerequisites": ["Scholarly Recordkeeping"],
+				//"uniques": ["Enables embarkation for land units"],
+				"uniques": ["Only available <before discovering [Agriculture]>"],
+				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 			},
 			{
 				"name": "Physics",
