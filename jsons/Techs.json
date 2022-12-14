@@ -258,7 +258,7 @@
 				"name": "Monotheism",
 				"row": 3,
 				"prerequisites": ["Drama and Poetry"],
-				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+				"quote": "How manifold are your works: they are secret from our sight. Oh unique god, no other is like you.' - Akhenaton"
 			},
 			{
 				"name": "Public Works",
@@ -352,6 +352,13 @@
 		"buildingCost": 160,
 		"wonderCost": 400,
 		"techs": [
+			{
+				"name": "Theology",
+				"row": 2,
+				"prerequisites": ["Scholarly Recordkeeping"],
+				"uniques": ["Only available <before discovering [Agriculture]>"],
+				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+				},
 			{
 				"name": "Compass",
 				"cost": 375,
