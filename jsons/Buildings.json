@@ -120,7 +120,7 @@
     "requiredTech": "Smelting"
 		"requiredNearbyImprovedResources": ["Iron","Copper","Gold","Silver"],
     "uniques": "[+1 Production] from [Iron] tiles [in this city]"],
-    "uniques": "[+1 Production] from [Copper] tiles [in this city],
+    "uniques": "[+1 Production] from [Copper] tiles [in this city"],
     "uniques": "[+1 Production] from [Gold] tiles [in this city]"],
     "uniques": "[+1 Production] from [Silver] tiles [in this city]"],
     },
