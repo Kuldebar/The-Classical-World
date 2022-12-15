@@ -65,31 +65,31 @@
 			},
 			{
 				"name": "Mysticism",
-				"row": 3,
+				"row": 4,
 				"prerequisites": ["Shamanism"],
 				"quote": "'The spirit is the true self, not that physical figure which can be pointed out by your finger.' - Marcus Tullius Cicero"
 			},
 			{
 				"name": "Medicine",
-				"row": 4,
+				"row": 5,
 				"prerequisites": ["Shamanism"],
 				"quote": "'As to diseases, make a habit of two things — to help, or at least, to do no harm.' - Hippocrates"
 			},
 			{
 				"name": "Astrology",
-				"row": 5,
+				"row": 6,
 				"prerequisites": ["Shamanism"],
 				"quote": "'Astrology is assured of recognition from pyschology, without further restrictions, because astrology represents the summation of all the psychological knowledge of antiquity.' - C.G.Jung"
 			},
 			{
 				"name": "Quarrying",
-				"row": 6,
+				"row": 7,
 				"prerequisites": ["Gathering"],
 				"quote": "'Life is a quarry, out of which we are to mold and chisel and complete a character.' - Samuel Butler"
 			}
 			{
 				"name": "Brickwork",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Gathering"],
 				"quote": "'I found Rome a city of bricks and left it a city of marble.' - Caesar Augustus"
 			},
