@@ -139,11 +139,11 @@
 				"row": 9,
 				"prerequisites": ["Hunter Specialization"],
 				"quote": "'The haft of the arrow has been feathered with one of the eagle's own plumes, we often give our enemies the means of our own destruction' - Aesop"
-			},
-			{
+			}
 
 
 //COLUMN 3 <--------------------------------------- Three
+	]		
 	},
 	{
 		"columnNumber": 3,
