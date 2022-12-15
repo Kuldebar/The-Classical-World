@@ -1,3 +1,5 @@
 {
     "isBaseRuleset": false,
-}
+},
+{constants:{maxXPfromBarbarians:10000}}
+
