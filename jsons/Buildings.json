@@ -794,26 +794,6 @@
 	},
 	{
 		// Ancient Civs import
-		        "name": "Fine Clay",
-        "uniqueTo": "Harappa",
-        "cost": -1,
-	"uniques": ["Provides [1] [Fine Clay]","Will not be displayed in Civilopedia","Unsellable","Destroyed when the city is captured"],
-	},
-		{
-        "name": "Myrrh",
-        "uniqueTo": "Himyar",
-        "cost": -1,
-	 "cannotBeBuiltWith": "Frankincense",
-	"uniques": ["Consumes [1] [Incense]","Provides [1] [Myrrh]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>"],
-	},
-			{
-        "name": "Frankincense",
-        "uniqueTo": "Himyar",
-        "cost": -1,
-	 "cannotBeBuiltWith": "Myrrh",
-	"uniques": ["Consumes [1] [Incense]","Provides [1] [Frankincense]","Unsellable","Will not be displayed in Civilopedia","Only available <with [Incense]>"],
-	},
-	{
 		"name": "Ziggurat",
 		"replaces": "Temple",
 		"uniqueTo": "Sumeria",
