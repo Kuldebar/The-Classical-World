@@ -335,8 +335,6 @@
 		"wonderCost": 400,
 		"techs": [
 		  {
-			},
-      {
 				"name": "Machinery",
 				"row": 4,
 				"prerequisites": ["Metal Casting"],
