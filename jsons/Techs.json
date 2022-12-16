@@ -372,7 +372,7 @@
 				"name": "Interregnum",
 				"row": 6,
 				"prerequisites": ["Banking","Machinery","Guilds"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.' - Sir Winston Churchill"
 	    }
 		]
