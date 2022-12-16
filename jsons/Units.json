@@ -471,7 +471,7 @@
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-[
+	},
 	{
 		"name": "Legion",
 		"unitType": "Sword",
