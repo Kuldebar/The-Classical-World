@@ -37,6 +37,7 @@
       "Normal vision when embarked",
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
+		  ],
 	},
 	{
 		"name": "Warrior",
