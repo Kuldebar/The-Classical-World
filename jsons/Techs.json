@@ -336,21 +336,21 @@
 		"techs": [
 		  {
 				"name": "Machinery",
-				"row": 5,
-				"prerequisites": ["Metal Casting"],
+				"row": 2,
+				"prerequisites": ["Metal Casting","The Wheel","Food Processing"],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'Give me a place to stand,and I will move the world.' - Archimedes"
 			},
 			{
       	"name": "Civil Service",
-				"row": 6,
+				"row": 5,
 				"prerequisites": ["Guilds","Public Works"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
       },
       {
 				"name": "Banking",
-				"row": 8,
+				"row": 7,
         "prerequisites": ["Guilds","Public Works"],
 				"quote": "'I believe that banking institutions are more dangerous to our liberties than standing armies.' – Thomas Jefferson"
 			
