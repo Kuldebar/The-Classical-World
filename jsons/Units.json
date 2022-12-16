@@ -10,36 +10,31 @@
 		"uniques": ["Can build [Land] improvements on tiles"],
 		"cost": 70
 	},
-	{
-    "name": "Settler",
-    "unitType": "Civilian",
-    "movement": 2,
-    "cost": 106,
+  {
+    "name": "Scout",
+    "unitType": "Scout",
+    "movement": 3,
+    "strength": 5,
+    "cost": 25,
     "uniques": [
-      "Founds a new city",
-      "Excess Food converted to Production when under construction",
-      "Requires at least [2] population",
-      "[+3] Sight <before the [Classical era]>",
-      "[+2] Movement <before the [Classical era]>",
-      "Can see over obstacles <before the [Classical era]>"
-    ],
-    "hurryCostModifier": 20,
-	},
-	{
-		"name": "Scout",
-		"unitType": "Scout",
-		"movement": 3,
-		"strength": 5,
-		"cost": 25,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["Never appears as a Barbarian unit",
+      "May upgrade to [Archer] through ruins-like effects",
+      "Never appears as a Barbarian unit",
       "Can see over obstacles",
       "Normal vision when embarked",
-		"promotions": ["Ignore terrain cost"],
-				  ],
-		"attackSound": "nonmetalhit"
-
-	},
+      "[+180]% Strength <starting from the [Medieval era]>",
+//This takes it to 9 (without other enhancment.)
+      "[+120]% Strength <starting from the [Industrial era]>",
+//This *should* take it to 15, but *may* only hit 10 or 11 depending on how that's handled.
+//(This would be so much easier if we had a *numerical* Strength control, arg.)
+      "[+100]% Strength <starting from the [Atomic era]>"
+//And lastly this should take it up to 20. I hope.
+    ],
+    "promotions": [
+      "Ignore terrain cost"
+    ],
+    "attackSound": "nonmetalhit"
+    "upgradesTo": "Archer"
+  },
 	{
 		"name": "Warrior",
 		"unitType": "Sword",
