@@ -206,7 +206,6 @@
 
 //COLUMN 4 <--------------------------------------- Four
 	]
-	},
 	{
 		"columnNumber": 4,
 		"era": "Ancient era",
@@ -254,7 +253,6 @@
 
 //COLUMN 5 <--------------------------------------- Five
 		]
-	},
 	{
 		"columnNumber": 4,
 		"era": "Classical era",
@@ -297,7 +295,6 @@
 			}
 //COLUMN 6 <--------------------------------------- SIX
 		]
-	},
 	{
 		"columnNumber": 6,
 		"era": "Classical era",
@@ -329,7 +326,6 @@
 			}
 //COLUMN 7 <--------------------------------------- SEVEN
 		]
-	},
 	{
 		"columnNumber": 7,
 		"era": "Classical era",
@@ -362,7 +358,6 @@
 //COLUMN 8 <--------------------------------------- EIGHT
 
 		]
-	},
 	{
 		"columnNumber": 8,
 		"era": "Classical era",
@@ -399,7 +394,7 @@
 		]
 
 //--------------------------------------------[Dark Age Interregnum Era]---------
-	},
+
 	{
 		"columnNumber": 10,
 		"era": "Medieval era",
@@ -461,7 +456,7 @@
 				"quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man"
 			}
 		]
-	},
+
 	{
 		"columnNumber": 11,
 		"era": "Renaissance era",
@@ -506,7 +501,7 @@
 				"quote": "'The day when two army corps can annihilate each other in one second, all civilized nations, it is to be hoped, will recoil from war and discharge their troops.' - Alfred Nobel"
 			}
 		]
-	},
+
 	{
 		"columnNumber": 12,
 		"era": "Renaissance era",
@@ -601,7 +596,7 @@
 				"quote": "'The nation that destroys its soil destroys itself.' - Franklin Delano Roosevelt"
 			}
 		]
-	},
+
 	{
 		"columnNumber": 14,
 		"era": "Industrial era",
@@ -639,7 +634,7 @@
 				"quote": "'As soon as men decide that all means are permitted to fight an evil, then their good becomes indistinguishable from the evil that they set out to destroy.' - Christopher Dawson"
 			}
 		]
-	},
+
 	{
 		"columnNumber": 15,
 		"era": "Modern era",
@@ -683,7 +678,7 @@
 				"quote": "'The introduction of so powerful an agent as steam to a carriage on wheels will make a great change in the situation of man.' - Thomas Jefferson"
 			}
 		]
-	},
+
 	{
 		"columnNumber": 16,
 		"era": "Modern era",
@@ -720,7 +715,7 @@
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
 			}
 		]
-	},
+
 	{
 		"columnNumber": 17,
 		"era": "Modern era",
@@ -757,7 +752,7 @@
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
 		]
-	},
+
 	{
 		"columnNumber": 18,
 		"era": "Atomic era",
@@ -794,7 +789,7 @@
 				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
 			}
 		]
-	},
+
 	{
 		"columnNumber": 19,
 		"era": "Information era",
@@ -846,7 +841,6 @@
 				"quote": "'The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.' - The Holy Bible: Romans, 13:12"
 			}
 		]
-	},
 
 	{
 		"columnNumber": 20,
@@ -891,7 +885,6 @@
 				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
 			}
 		]
-	},
 	{
 		"columnNumber": 21,
 		"era": "Future era",
