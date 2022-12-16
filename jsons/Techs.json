@@ -517,7 +517,7 @@
 			{
 				"name": "Economics",
 				"row": 6,
-				"prerequisites": ["Scholarly Recordkeeping"],
+				"prerequisites": ["Printing Press"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
