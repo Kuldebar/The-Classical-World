@@ -821,7 +821,7 @@
 	},
 	{
 		"name": "Sphinx Gate",
-		"replaces": "Government House",
+		"replaces": " Courthouse",
 		"uniqueTo": "The Hittites",
 		"cityStrength": 2,
 		"cityHealth": 25,
