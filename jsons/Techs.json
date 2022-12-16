@@ -49,7 +49,7 @@
 				"name": "Pottery",
 				"row": 1,
 				"prerequisites": ["Agriculture"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+				"quote": "'Turn, turn, my wheel! Turn round and round / Without a pause, without a sound: / So spins the flying world away! / This clay, well mixed with marl and sand, / Follows the motion of my hand; / For some must follow, and some command, / Though all are made of clay!' - Henry Wadsworth Longfellow"
 			},
 			{
 				"name": "Gristmill",
@@ -205,7 +205,7 @@
 	]
 	{
 		"columnNumber": 4,
-		"era": "Ancient era",
+		"era": "Classical era",
 		"techCost": 95,
 		"buildingCost": 75,
 		"wonderCost": 215,
