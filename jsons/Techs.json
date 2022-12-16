@@ -72,7 +72,7 @@
 			},
 			{
 				"name": "Astrology",
-				"row": 8,
+				"row": 7,
 				"prerequisites": ["Shamanism"],
 				"quote": "'Astrology is assured of recognition from pyschology, without further restrictions, because astrology represents the summation of all the psychological knowledge of antiquity.' - C.G.Jung"
 			},
