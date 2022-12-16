@@ -103,7 +103,7 @@
 				"name": "The Wheel",
 				"row":2,
 				"prerequisites": ["Pottery","Gristmill","Animal Husbandry"],
-			},
+			},.     "quote": "'Put your shoulder to the wheel.' - Aesop"
 			{
 				"name": "Mining",
 				"row": 4,
