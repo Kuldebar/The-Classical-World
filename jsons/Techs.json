@@ -102,7 +102,7 @@
 			{
 				"name": "The Wheel",
 				"row":2,
-				"prerequisites": ["Pottery","Gristmill"],
+				"prerequisites": ["Pottery","Gristmill","Animal Husbandry"],
 			},
 			{
 				"name": "Mining",
