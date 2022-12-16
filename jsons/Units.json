@@ -1,0 +1,17 @@
+[
+//* Ancient Era *//
+
+	{
+		"name": "Galley",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 7,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles"],
+		"upgradesTo": "Trireme",
+		"obsoleteTech": "Seafaring",
+		"attackSound": "nonmetalhit"
+		// Galleys for everyone (at first)
+	},
+  ]
