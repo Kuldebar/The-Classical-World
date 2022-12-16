@@ -386,7 +386,7 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Government House",
+		"name": "Courthouse",
 		"maintenance": 4,
 		"hurryCostModifier": 50,
 		"uniques": ["Remove extra unhappiness from annexed cities",
