@@ -360,23 +360,23 @@
 
 	    
 //COLUMN 10 <--------------------------------------- TEN
-//
-//			}
-//		]
-//	},
-//	{
-//		"columnNumber": 8,
-//		"era": "Classical era",
-//		"techCost": 9500,
-//		"buildingCost": 750,
-//		"wonderCost": 1250,
-//		"techs": [
-//			{
-//				"name": "Interregnum",
-//				"row": 6,
-//				"prerequisites": ["Banking","Machinery","Guilds"],
-//				"uniques": ["Only available <before discovering [Agriculture]>"],
-//				"quote": "'Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.' - Sir Winston Churchill"
+
+			}
+		]
+	},
+	{
+		"columnNumber": 8,
+		"era": "Classical era",
+		"techCost": 9500,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Interregnum",
+				"row": 6,
+				"prerequisites": ["Banking","Machinery","Civil Service"],
+				"uniques": ["Only available <before discovering [Agriculture]>"],
+				"quote": "'Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.' - Sir Winston Churchill"
 	    }
 		]
 	},
@@ -391,7 +391,7 @@
 		  {
 		    "name": "Scholarly Recordkeeping",
 				"row": 6,
-				"prerequisites": ["Banking","Machinery","Civil Service"],
+				"prerequisites": ["Interregnum"],
         "uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'He who forgets his past is lost.' - African Proverb"
 
