@@ -11,11 +11,10 @@
 		"cost": 70
 	},
 	{
-		"name": "Settler",
+    "name": "Settler",
     "unitType": "Civilian",
     "movement": 2,
     "cost": 106,
-    "hurryCostModifier": 20,
     "uniques": [
       "Founds a new city",
       "Excess Food converted to Production when under construction",
@@ -23,6 +22,8 @@
       "[+3] Sight <before the [Classical era]>",
       "[+2] Movement <before the [Classical era]>",
       "Can see over obstacles <before the [Classical era]>"
+    ],
+    "hurryCostModifier": 20,
 	},
 	{
 		"name": "Scout",
