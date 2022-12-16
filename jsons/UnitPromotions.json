@@ -1,0 +1,61 @@
+[
+//Sentry, but for ranged units.
+  {
+     "name": "Spotter I",
+     "prerequisites": ["Accuracy III","Barrage III"],
+     "uniques": ["[+1] Sight"],
+     "unitTypes": ["Archery","Ranged Gunpowder","Siege"]
+  },
+  {
+     "name": "Spotter II",
+     "prerequisites": ["Spotter I"],
+     "uniques": ["Can see over obstacles"],
+     "unitTypes": ["Archery","Ranged Gunpowder","Siege"]
+  },
+  {
+// The Sapper unit: use in conjunction with your armies, they undermine defenses, poison wells and breach walls, etc.
+     "name": "Sapper I",
+     "prerequisites": ["Scouting III"],
+     "uniques": ["Can pass through impassable tiles"],
+     "unitTypes": ["Scout"]
+  },
+  {
+     "name": "Sapper II",
+     "prerequisites": ["Sapper I"],
+     "uniques": ["May enter foreign tiles without open borders"],
+     "unitTypes": ["Scout"]
+  },
+  {
+     "name": "Sapper III",
+     "prerequisites": ["Sapper I"],
+     "uniques": ["Unable to capture cities","[+350]% Strength <vs cities> <when attacking>","Invisible to others"],
+     "unitTypes": ["Scout"]
+  },
+//Move faster in your own territory, and then in foreign territory
+  {
+
+     "name": "Route March I",
+     "prerequisites": ["Accuracy II","Barrage II","Shock II","Drill II"],
+     "uniques": ["[+2] Movement <in [Friendly Land] tiles>"],
+     "unitTypes": ["Mounted","Armored","Sword","Gunpowder","Siege","Archery","Ranged Gunpowder"]
+  },
+  {
+     "name": "Route March II",
+     "prerequisites": ["Route March I"],
+     "uniques": ["[+1] Movement <in tiles without [Enemy Land]>"],
+     "unitTypes": ["Mounted","Armored","Sword","Gunpowder","Siege","Archery","Ranged Gunpowder"]
+  },
+  {
+     "name": "Route March III",
+     "prerequisites": ["Route March II"],
+     "uniques": ["[+1] Movement <in [Foreign Land] tiles>"],
+     "unitTypes": ["Mounted","Armored","Sword","Gunpowder","Siege","Archery","Ranged Gunpowder"]
+  },
+//Gunboats, Seige weapons and bombers kill Improvements
+  {
+     "name": "Collateral Damage",
+     "prerequisites": ["Volley","Siege II","Bombardment II"],
+     "uniques": ["Destroys tile improvements when attacking"],
+     "unitTypes": ["Siege","Bomber","Ranged Water"]
+  },
+]
