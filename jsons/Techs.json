@@ -885,7 +885,8 @@
 				"name": "Future Tech",
 				"row": 5,
 				"prerequisites": ["Globalization","Particle Physics", "Nuclear Fusion", "Nanotechnology", "Stealth"],
-				"uniques": ["Who knows what the future holds?", "Can be continually researched"],
+				"uniques": ["Only available <before discovering [Agriculture]>"],
+				//"uniques": ["Who knows what the future holds?", "Can be continually researched"],
 				"quote": "'I think we agree, the past is over.' - George N.W.O. Bush"
 			}
 		]
