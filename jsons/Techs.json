@@ -38,7 +38,6 @@
       }
 //COLUMN 1 <--------------------------------------- ONE
 		]
-	},
 	{
 		"columnNumber": 1,
 		"era": "Ancient era",
@@ -85,7 +84,6 @@
 			}
 //COLUMN 2 <--------------------------------------- Two
 		]
-	},
 	{		"columnNumber": 2,
 		"era": "Ancient era",
 		"techCost": 45,
@@ -150,7 +148,6 @@
 //COLUMN 3 <--------------------------------------- Three
 
 		]
-	},
 	{
 		"columnNumber": 3,
 		"era": "Ancient era",
