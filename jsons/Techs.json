@@ -245,7 +245,6 @@
 				"name": "Philosophy",
 				"row": 6,
 				"prerequisites": ["Writing"],
-	     			"uniques":"Gain a free [Follower] belief"
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
