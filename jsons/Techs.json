@@ -326,8 +326,8 @@
 		"techs": [
 		  {
 				"name": "Engineering",
-				"row": 2,
-				"prerequisites": ["Metal Casting","Iron Working",],
+				"row": 4,
+				"prerequisites": ["Metal Casting","Iron Working","Urban Planning"],
 				"uniques": ["Roads connect tiles across rivers"],
 				"quote": "'The story of civilization is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man's good.' - L. Sprague de Camp"			  
 			},
@@ -340,7 +340,7 @@
 			},
 			{
 				"name": "Guilds",
-				"row": 7,
+				"row": 8,
 				"prerequisites": ["Currency"],
 				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
@@ -359,7 +359,7 @@
 		  {
 				"name": "Machinery",
 				"row": 1,
-				"prerequisites": ["Metal Casting","Food Processing","Engineering],
+				"prerequisites": ["Food Processing","Engineering],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.' - Archimedes"
 			 },
@@ -367,18 +367,18 @@
 				"name": "Road Network",
 				"row": 2,
 				"prerequisites": ["Wheeled Transport","Engineering"],
-				"quote": "'Throughout the ancient world, long before the invention of money, food was wealth—and control of food was power.' - Tom Standage, An Edible History of Humanity"
+				"quote": "'A thousand roads lead men forever to Rome.' - Alian de Lille"
 			},
 			{
       	"name": "Civil Service",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Guilds","Public Works"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
       },
       {
 				"name": "Banking",
-				"row": 7,
+				"row": 6,
         "prerequisites": ["Guilds","Public Works"],
 				"quote": "'I believe that banking institutions are more dangerous to our liberties than standing armies.' – Thomas Jefferson"
 			
@@ -397,7 +397,7 @@
 			{
 				"name": "Interregnum",
 				"row": 6,
-				"prerequisites": ["Banking","Machinery","Civil Service"],
+				"prerequisites": ["Banking","Machinery","Civil Service","Road Network"],
 				"uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.' - Sir Winston Churchill"
 
