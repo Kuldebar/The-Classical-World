@@ -140,7 +140,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Military Caste",
-		"uniques": "[+1] Unit Supply"],["Destroyed when the city is captured"],"[Great General] is earned [+20]% faster",
+		"uniques":"[Wounded] Units adjacent to this city heal [10] HP per turn when healing"
 	},
 	{
 		"name": "Municipal Administration",
@@ -152,7 +152,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Urban Planning",
-		"uniques": "[+1] Unit Supply"],["Destroyed when the city is captured"],
+		"uniques": "[+3] Unit Supply"],["Destroyed when the city is captured"],
     },
     {
         "name": "Wainwright",
