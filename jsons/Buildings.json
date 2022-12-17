@@ -561,6 +561,7 @@
 		"isWonder": true,
 		"uniques": ["Must be next to [Coast]", "[+1 Gold] from [Water] tiles [in this city]"],
 		"requiredTech": "Smelting",
+		"quote": "'Why, man, he doth bestride the narrow world, like a Colossus; and we petty men walk under his huge legs, and peep about, to find ourselves dishonourable graves.' - William Shakespeare, (Julius Caesar)"
 	},
 	{
 		"name": "Garden",
