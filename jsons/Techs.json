@@ -77,11 +77,22 @@
 				"quote": "'Astrology is assured of recognition from pyschology, without further restrictions, because astrology represents the summation of all the psychological knowledge of antiquity.' - C.G.Jung"
 			},
 			{
+				"name": "Trapping",
+				"row": 8,
+				"prerequisites": ["Hunting"],
+				"quote": "'It’s a trap!' - Admiral Ackbar"
+			},
+			{
 				"name": "Hunter Specialization",
 				"row": 9,
 				"prerequisites": ["Hunting"],
-				"quote": "'I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. ' - Henry David Thoreau"
-
+				"quote": "'Life has a certain flavor for those who have fought and risked all that the sheltered and protected can never experience.' - John Stuart Mill"
+			},
+			{
+				"name": "Archery",
+				"row": 10,
+				"prerequisites": ["Hunting"],
+				"quote": "'When you shoot an arrow of truth, dip its point in honey.' - Arab Proverb"
 //COLUMN 2 <--------------------------------------- Two
 			}
 		]
@@ -103,8 +114,15 @@
 				"name": "The Wheel",
 				"row":2,
 				"prerequisites": ["Pottery","Gristmill","Animal Husbandry"],
-			},.     "quote": "'Put your shoulder to the wheel.' - Aesop"
+				"quote": "'Put your shoulder to the wheel.' - Aesop"
+			},
 			{
+				"name": "Horseback Riding",
+				"row": 3,
+				"prerequisites": ["Animal Husbandry",],
+				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
+			},
+			{			
 				"name": "Mining",
 				"row": 4,
 				"prerequisites": ["Quarrying"],
@@ -135,18 +153,10 @@
 				"quote": "'Hark, now hear the sailors cry...Smell the sea, and feel the sky. Let your souls and spirit fly, into the mystic.' - Van Morrison"
 			},
 			{
-				"name": "Trapping",
+				"name": "Military Caste",
 				"row": 9,
 				"prerequisites": ["Hunter Specialization"],
-				"quote": "'Even brute beasts and wandering birds do not fall into the same traps or nets twice.' - Saint Jerome"
-				"quote": "'Men's fortunes are on a wheel, which in its turning suffers not the same man to prosper for ever.' - Herodotus"
-			},
-			{
-				"name": "Archery",
-				"row": 10,
-				"prerequisites": ["Hunter Specialization"],
-				"quote": "'The haft of the arrow has been feathered with one of the eagle's own plumes, we often give our enemies the means of our own destruction' - Aesop"
-
+				"quote": "'We sleep peaceably in our beds at night only because rough men stand ready to do violence on our behalf.' - George Orwell"
 //COLUMN 3 <--------------------------------------- Three
 			}
 		]
@@ -168,7 +178,7 @@
 				"name": "Smelting",
 				"row": 4,
 				"prerequisites": ["Mining"],
-				"quote": "'Smelting is the process of extracting metal from an unrefined metal ore.' - Runescape Wiki, maybe"
+				"quote": "'Everything has its limit - iron ore cannot be educated into gold.' - Mark Twain"
 			},
 			{
 				"name": "Masonry",
@@ -191,15 +201,9 @@
 			{
 				"name": "Seafaring",
 				"row": 8 ,
-				"prerequisites": ["Sailing"],
+				"prerequisites": ["Military Caste","Sailing"],
 				"uniques": ["Enables embarkation for land units"],
 				"quote": "'And what if one of the gods does wreck me out on the wine-dark sea?.' - Homer, The Odyssey"
-			},
-			{
-				"name": "Horseback Riding",
-				"row": 9,
-				"prerequisites": ["Trapping",],
-				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 
 //COLUMN 4 <--------------------------------------- Four
 			}
