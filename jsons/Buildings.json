@@ -144,11 +144,10 @@
 	{
 		"name": "Municipal Administration",
 		"cost": 65,
-		"production": 4,
-		"food" 2,
-		"happiness": 1,
-		"gold" 4,
-		"maintenance": 2,
+		"production": 3,
+		"culture": 1,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
 		"requiredTech": "Urban Planning",
 		
     },
