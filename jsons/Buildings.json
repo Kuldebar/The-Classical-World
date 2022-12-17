@@ -133,22 +133,21 @@
 	{
 		"name": "Garrison",
 		"cost": 65,
-		"maintenance": 2,
+		"maintenance": 3,
 		"happiness": 2
 		"cityStrength": 5,
 		"cityHealth": 10,
-		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Military Caste",
-		["New [Military] units start with [10] Experience [in this city]",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 	},
 	{
 		"name": "Municipal Administration",
 		"cost": 65,
+		"production": 3,
 		"maintenance": 2,
-		"hurryCostModifier": 25,
 		"requiredTech": "Urban Planning",
-		"uniques": "[+1] Unit Supply"]
+		"uniques": "specialistSlots": {"Engineer": 1},
     },
     {
         "name": "Wainwright",
