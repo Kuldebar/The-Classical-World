@@ -147,7 +147,7 @@
 		"production": 3,
 		"maintenance": 2,
 		"requiredTech": "Urban Planning",
-		"uniques": "specialistSlots": {"Engineer": 1},
+		"uniques":"percentStatBonus": {"food": 15},
     },
     {
         "name": "Wainwright",
