@@ -306,6 +306,7 @@
 				"name": "Drama and Poetry",
 				"row": 7,
 				"prerequisites": ["Philosophy"],
+				"uniques": "Each city founded increases culture cost of policies [+20]% less than normal"
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 			{
@@ -337,7 +338,7 @@
 				"name": "Public Works",
 				"row": 5,
 				"prerequisites": ["Urban Planning","Monotheism","Currency"],
-				"uniques": ["[+10]% growth [in all cities]"],
+				"uniques": "[ 20]% growth [in all cities]",
 				"quote": "'Give them bread and circuses and they will never revolt.' - Juvenal"
 			},
 			{
@@ -376,7 +377,7 @@
       	"name": "Civil Service",
 				"row": 4,
 				"prerequisites": ["Guilds","Public Works"],
-				"uniques": ["Enables Open Borders agreements"],"[+20]% Great Person generation [in all cities]"
+				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
       },
       {
