@@ -93,7 +93,7 @@
     "production": 2,
 		"maintenance": 1,
 		"uniques": ["[+15]% Production when constructing [All] buildings [in this city]"],
-		"requiredTech": "Masonry",
+		"requiredTech": "Brickwork",
 	},
   {
     "name": "Orrery",
@@ -251,10 +251,19 @@
 		"name": "Water Mill",
 		"maintenance": 2,
 		"food": 2,
-		"production": 1,
+		"production": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [River]"],
 		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Fountain",
+		"maintenance": 2,
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must not be next to [Fresh water]"],
+		"requiredTech": "Water Screw"		
 	},
 	{
 		"name": "Floating Gardens",
@@ -270,10 +279,10 @@
 	},
 	{
 		"name": "Walls",
-		"cityStrength": 5,
-		"cityHealth": 55,
+		"cityStrength": 6,
+		"cityHealth": 75,
 		"hurryCostModifier": 25,
-		"requiredTech": "Brickwork",
+		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"],
 	},
 	{
@@ -284,7 +293,7 @@
 		"cityStrength": 7,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
-		"requiredTech": "Brickwork",
+		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"],
 	},
 	{
@@ -415,7 +424,7 @@
 		"culture": 6,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Artist": 1},
-		"requiredTech": "Construction",
+		"requiredTech": "Pottery",
 		"quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
 	},
 	{
@@ -514,7 +523,7 @@
 		"maintenance": 0,
 		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]"],
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]","[+2 Gold] from [Silver] tiles [in this city]","[+2 Gold] from [Copper] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{
