@@ -369,14 +369,14 @@
 				"name": "Road Network",
 				"row": 2,
 				"prerequisites": ["Wheeled Transport","Engineering"],
-				"uniques": "[+2] Movement <for [{Land} units>"
+				"uniques": "Quantity of strategic resources produced by the empire +[+20]%"
 				"quote": "'A thousand roads lead men forever to Rome.' - Alian de Lille"
 			},
 			{
       	"name": "Civil Service",
 				"row": 4,
 				"prerequisites": ["Guilds","Public Works"],
-				"uniques": ["Enables Open Borders agreements"],
+				"uniques": ["Enables Open Borders agreements"],"[+20]% Great Person generation [in all cities]"
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
       },
       {
