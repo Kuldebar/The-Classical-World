@@ -369,7 +369,7 @@
 				"name": "Road Network",
 				"row": 2,
 				"prerequisites": ["Wheeled Transport","Engineering"],
-				"uniques": "Quantity of strategic resources produced by the empire +[+20]%"
+				"uniques": ["Enables conversion of city production to [Culture]"],
 				"quote": "'A thousand roads lead men forever to Rome.' - Alian de Lille"
 			},
 			{
