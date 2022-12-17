@@ -306,7 +306,7 @@
 				"name": "Drama and Poetry",
 				"row": 7,
 				"prerequisites": ["Philosophy"],
-				"uniques": "Each city founded increases culture cost of policies [+20]% less than normal"
+				"uniques": "[+20]% of excess happiness converted to [Culture]"
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 			{
