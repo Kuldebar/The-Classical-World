@@ -156,7 +156,7 @@
         "cost": 95,
         "production": 2,
 	"maintenance": 3,
-        "uniques":"percentStatBonus": {"production": 5},
+        "percentStatBonus": {"production": 5},
 	"specialistSlots": {"Merchant": 1},
 	"requiredTech": "Wheeled Transport"
     },
