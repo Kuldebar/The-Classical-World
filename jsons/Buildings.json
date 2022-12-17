@@ -148,7 +148,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Urban Planning",
-		"uniques": "[+3] Unit Supply"],["Destroyed when the city is captured"],
+		"uniques": "[+1] Unit Supply"]
     },
     {
         "name": "Wainwright",
