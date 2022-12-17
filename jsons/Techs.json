@@ -278,12 +278,6 @@
 		"wonderCost": 250,
 		"techs": [
 			{
-				"name": "Metal Casting",
-				"row": 3,
-				"prerequisites": ["Construction","Bronze Working"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"	
-			},	
-			{
 				"name": "Iron Working",
 				"row": 4,
 				"prerequisites": ["Bronze Working"],
@@ -329,10 +323,16 @@
 		  {
 				"name": "Engineering",
 				"row": 4,
-				"prerequisites": ["Metal Casting","Iron Working","Urban Planning"],
+				"prerequisites": ["Urban Planning"],
 				"uniques": ["Roads connect tiles across rivers"],
 				"quote": "'The story of civilization is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man's good.' - L. Sprague de Camp"			  
-			},
+				},	
+				{
+			  	"name": "Metal Casting",
+				"row": 3,
+				"prerequisites": ["Iron Working"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"	
+			 },
 			{
 				"name": "Public Works",
 				"row": 5,
@@ -361,7 +361,7 @@
 		  {
 				"name": "Machinery",
 				"row": 1,
-				"prerequisites": ["Food Processing","Wheeled Transport","Engineering"],
+				"prerequisites": ["Metal Casting","Food Processing","Wheeled Transport","Engineering"],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.' - Archimedes"
 			 },
