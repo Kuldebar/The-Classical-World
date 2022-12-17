@@ -322,14 +322,14 @@
 		"techs": [
 		  {
 				"name": "Engineering",
-				"row": 4,
+				"row": 2,
 				"prerequisites": ["Urban Planning"],
 				"uniques": ["Roads connect tiles across rivers"],
 				"quote": "'The story of civilization is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man's good.' - L. Sprague de Camp"			  
 				},	
 				{
 			  	"name": "Metal Casting",
-				"row": 3,
+				"row": 1,
 				"prerequisites": ["Iron Working"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"	
 			 },
