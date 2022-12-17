@@ -144,7 +144,7 @@
 	{
 		"name": "Municipal Administration",
 		"cost": 65,
-		"production": 4
+		"production": 4,
 		"food" 2,
 		"happiness": 1,
 		"gold" 4,
