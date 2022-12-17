@@ -554,9 +554,9 @@
 	{
 		"name": "Mint",
 		"maintenance": 0,
-		"requiredNearbyImprovedResources": ["Gold Ore", "Silver"],
+		"requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper"],
 		"hurryCostModifier": 25,
-		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]","[+2 Gold] from [Silver] tiles [in this city]","[+2 Gold] from [Copper] tiles [in this city]"],
+		"uniques": ["[+2 Gold] from [Gold Ore] tiles [in this city]", "[+2 Gold] from [Silver] tiles [in this city]", "[+2 Gold] from [Copper] tiles [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{
