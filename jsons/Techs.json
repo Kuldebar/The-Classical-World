@@ -224,7 +224,7 @@
 	{
 		"columnNumber": 4,
 		"era": "Classical era",
-		"techCost": 95,
+		"techCost": 115,
 		"buildingCost": 75,
 		"wonderCost": 215,
 		"techs": [
@@ -272,7 +272,7 @@
 	{
 		"columnNumber": 5,
 		"era": "Classical era",
-		"techCost": 125,
+		"techCost": 175,
 		"buildingCost": 100,
 		"wonderCost": 250,
 		"techs": [
@@ -291,7 +291,7 @@
 			{
 				"name": "Urban Planning",
 				"row": 5,
-				"prerequisites": ["Construction","Bronze Working"],
+				"prerequisites": ["Construction","Code of Laws"],
 				"quote": "'Go up on to the wall of Uruk and walk around. Inspect the foundation platform and scrutinise the brickwork. Testify that its bricks are baked bricks. And that the Seven Counsellors must have laid its foundations. One square mile is city, one square mile is orchards, one square mile is claypits, as well as the open ground of Ishtar's temple. Three square miles and the open ground comprise Uruk.' - Epic of Gilgamesh"
 			},
 			{
@@ -320,7 +320,7 @@
 	{
 		"columnNumber": 6,
 		"era": "Classical era",
-		"techCost": 175,
+		"techCost": 275,
 		"buildingCost": 120,
 		"wonderCost": 300,
 		"techs": [
@@ -352,14 +352,14 @@
 	{
 		"columnNumber": 7,
 		"era": "Classical era",
-		"techCost": 250,
+		"techCost": 350,
 		"buildingCost": 160,
 		"wonderCost": 400,
 		"techs": [
 		  {
 				"name": "Machinery",
 				"row": 1,
-				"prerequisites": ["Food Processing","Engineering],
+				"prerequisites": ["Food Processing","Wheeled Transport","Engineering"],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.' - Archimedes"
 			 },
@@ -367,6 +367,7 @@
 				"name": "Road Network",
 				"row": 2,
 				"prerequisites": ["Wheeled Transport","Engineering"],
+				"uniques": "[+1] Movement <for [{Land} units>",
 				"quote": "'A thousand roads lead men forever to Rome.' - Alian de Lille"
 			},
 			{
