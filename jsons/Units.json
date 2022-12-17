@@ -33,9 +33,7 @@
 		"strength": 5,
 		"cost": 25,
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May not upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
-      "Can see over obstacles",
-      "Normal vision when embarked",
+		"uniques": ["May not upgrade to [Archer] through ruins-like effects","Never appears as a Barbarian unit","Can see over obstacles","Normal vision when embarked"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
