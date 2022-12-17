@@ -155,7 +155,7 @@
 			{
 				"name": "Military Caste",
 				"row": 9,
-				"prerequisites": ["Hunter Specialization"],
+				"prerequisites": ["Hunter Specialization","Archery"],
 				"quote": "'We sleep peaceably in our beds at night only because rough men stand ready to do violence on our behalf.' - George Orwell"
 //COLUMN 3 <--------------------------------------- Three
 			}
@@ -175,8 +175,14 @@
 				"quote": "'Throughout the ancient world, long before the invention of money, food was wealth—and control of food was power.' - Tom Standage, An Edible History of Humanity"
 			},
 			{
+				"name": "Wheeled Transport",
+				"row": 2,
+				"prerequisites": ["The Wheel"],
+				"quote": "'Throughout the ancient world, long before the invention of money, food was wealth—and control of food was power.' - Tom Standage, An Edible History of Humanity"
+			},
+			{
 				"name": "Water Screw",
-				"row":2,
+				"row":3,
 				"prerequisites": ["The Wheel"],
 				"quote": "'Over the centuries a variety of tools and techniques have been devised to help irrigate the land. Here a farmer uses a shadoof to irrigate his fields and these farmers, instead, are using water screws for irrigation, while this water buffalo pulls a waterwheel.' - Encyclopedia Britannica Video"				
 			},
@@ -253,11 +259,11 @@
 				"quote": "'Mathematics is the gate and key to the sciences.' - Roger Bacon"
 			},
 			{
-        "name": "Cartography",
-        "row": 9,
-        "prerequisites": ["Horseback Riding","Seafaring"],
-        "uniques": ["[+2] Movement <for [Embarked] units>","Reveals the entire map"],
-				"quote": "'Not all those who wander are lost' - J.R.R. Tolkien"
+      			  "name": "Cartography",
+      			  "row": 9,
+      			  "prerequisites": ["Seafaring"],
+      			  "uniques": ["[+2] Movement <for [Embarked] units>","Reveals the entire map"],
+		        	"quote": "'Not all those who wander are lost' - J.R.R. Tolkien"
 
 //COLUMN 5 <--------------------------------------- Five
 			}
@@ -271,17 +277,22 @@
 		"wonderCost": 250,
 		"techs": [
 			{
-				"name": "Iron Working",
+				"name": "Metal Casting",
 				"row": 3,
-				"prerequisites": ["Bronze Working"],
-				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
-			},
-			{
-				"name": "Engineering",
-				"row": 4,
 				"prerequisites": ["Construction","Bronze Working"],
-				"uniques": ["Roads connect tiles across rivers"],
-				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci"
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"	
+			},	
+			{
+				"name": "Iron Working",
+				"row": 4,
+				"prerequisites": ["Bronze Working"],
+				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"				
+			},	
+			{
+				"name": "Urban Planning",
+				"row": 5,
+				"prerequisites": ["Construction","Bronze Working"],
+				"quote": "'Go up on to the wall of Uruk and walk around. Inspect the foundation platform and scrutinise the brickwork. Testify that its bricks are baked bricks. And that the Seven Counsellors must have laid its foundations. One square mile is city, one square mile is orchards, one square mile is claypits, as well as the open ground of Ishtar's temple. Three square miles and the open ground comprise Uruk.' - Epic of Gilgamesh"
 			},
 			{
 				"name": "Monotheism",
@@ -314,15 +325,16 @@
 		"wonderCost": 300,
 		"techs": [
 		  {
-				"name": "Metal Casting",
-				"row": 4,
-				"prerequisites": ["Engineering","Iron Working"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+				"name": "Engineering",
+				"row": 2,
+				"prerequisites": ["Metal Casting","Iron Working",],
+				"uniques": ["Roads connect tiles across rivers"],
+				"quote": "'The story of civilization is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man's good.' - L. Sprague de Camp"			  
 			},
 			{
 				"name": "Public Works",
 				"row": 5,
-				"prerequisites": ["Engineering","Monotheism","Currency"],
+				"prerequisites": ["Urban Planning","Monotheism","Currency"],
 				"uniques": ["[+10]% growth [in all cities]"],
 				"quote": "'Give them bread and circuses and they will never revolt.' - Juvenal"
 			},
@@ -346,10 +358,16 @@
 		"techs": [
 		  {
 				"name": "Machinery",
-				"row": 2,
-				"prerequisites": ["Metal Casting","The Wheel","Food Processing"],
+				"row": 1,
+				"prerequisites": ["Metal Casting","Food Processing","Engineering],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.' - Archimedes"
+			 },
+			{
+				"name": "Road Network",
+				"row": 2,
+				"prerequisites": ["Wheeled Transport","Engineering"],
+				"quote": "'Throughout the ancient world, long before the invention of money, food was wealth—and control of food was power.' - Tom Standage, An Edible History of Humanity"
 			},
 			{
       	"name": "Civil Service",
