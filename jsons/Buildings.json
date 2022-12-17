@@ -147,7 +147,6 @@
 		"cost": 65,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"requiredBuilding": "Walls",
 		"requiredTech": "Urban Planning",
 		"uniques": "[+3] Unit Supply"],["Destroyed when the city is captured"],
     },
