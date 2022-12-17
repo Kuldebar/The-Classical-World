@@ -146,9 +146,6 @@
 		"name": "Municipal Administration",
 		"cost": 65,
 		"maintenance": 2,
-		"gold": 3
-		"cityStrength": 5,
-		"cityHealth": 10,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Urban Planning",
