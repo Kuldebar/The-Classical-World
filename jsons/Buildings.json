@@ -140,7 +140,7 @@
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
 		"requiredTech": "Military Caste",
-		"uniques":"[Wounded] Units adjacent to this city heal [10] HP per turn when healing",["Destroyed when the city is captured"],
+		"uniques":["Destroyed when the city is captured"],["New [Military] units start with [15] Experience [in this city]",
 	},
 	{
 		"name": "Municipal Administration",
