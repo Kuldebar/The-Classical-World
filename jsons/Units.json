@@ -14,4 +14,29 @@
 		"attackSound": "nonmetalhit"
 		// Galleys for everyone (at first)
 	},
+	{
+		"name": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Seafaring",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
+			},
+	{
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May not upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+      "Can see over obstacles",
+      "Normal vision when embarked",
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
   ]
