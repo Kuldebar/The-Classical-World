@@ -175,6 +175,12 @@
 				"quote": "'Throughout the ancient world, long before the invention of money, food was wealth—and control of food was power.' - Tom Standage, An Edible History of Humanity"
 			},
 			{
+				"name": "Water Screw",
+				"row":2,
+				"prerequisites": ["The Wheel"],
+				"quote": "'Over the centuries a variety of tools and techniques have been devised to help irrigate the land. Here a farmer uses a shadoof to irrigate his fields and these farmers, instead, are using water screws for irrigation, while this water buffalo pulls a waterwheel.' - Encyclopedia Britannica Video"				
+			},
+			{
 				"name": "Smelting",
 				"row": 4,
 				"prerequisites": ["Mining"],
@@ -343,7 +349,7 @@
 				"row": 2,
 				"prerequisites": ["Metal Casting","The Wheel","Food Processing"],
 				"uniques": ["Improves movement speed on roads"],
-				"quote": "'Give me a place to stand,and I will move the world.' - Archimedes"
+				"quote": "'Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.' - Archimedes"
 			},
 			{
       	"name": "Civil Service",
