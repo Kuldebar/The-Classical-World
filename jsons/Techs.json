@@ -8,8 +8,8 @@
 	{
 		"columnNumber": 0,
 		"era": "Ancient era",
-		"techCost": 20,
-		"buildingCost": 40,
+		"techCost": 30,
+		"buildingCost": 70,
 		"techs": [
 			{
 				"name": "Agriculture",
@@ -42,8 +42,8 @@
 	{
 		"columnNumber": 1,
 		"era": "Ancient era",
-		"techCost": 35,
-		"buildingCost": 60,
+		"techCost": 50,
+		"buildingCost": 90,
 		"wonderCost": 165,
 		"techs": [
 			{
@@ -100,9 +100,9 @@
 	{		
 		"columnNumber": 2,
 		"era": "Ancient era",
-		"techCost": 45,
-		"buildingCost": 65,
-		"wonderCost": 195,
+		"techCost": 70,
+		"buildingCost": 110,
+		"wonderCost": 200,
 		"techs": [
 			{
 				"name": "Fermentation",
@@ -165,9 +165,9 @@
 	{
 		"columnNumber": 3,
 		"era": "Ancient era",
-		"techCost": 65,
-		"buildingCost": 65,
-		"wonderCost": 195,
+		"techCost": 90,
+		"buildingCost": 130,
+		"wonderCost": 225,
 		"techs": [
 			{
 				"name": "Food Processing",
@@ -225,9 +225,9 @@
 	{
 		"columnNumber": 4,
 		"era": "Classical era",
-		"techCost": 115,
-		"buildingCost": 75,
-		"wonderCost": 215,
+		"techCost": 110,
+		"buildingCost": 150,
+		"wonderCost": 245,
 		"techs": [
       {
 				"name": "Bronze Working",
@@ -274,8 +274,8 @@
 		"columnNumber": 5,
 		"era": "Classical era",
 		"techCost": 175,
-		"buildingCost": 100,
-		"wonderCost": 250,
+		"buildingCost": 170,
+		"wonderCost": 265,
 		"techs": [
 			{
 				"name": "Iron Working",
@@ -317,7 +317,7 @@
 		"columnNumber": 6,
 		"era": "Classical era",
 		"techCost": 275,
-		"buildingCost": 120,
+		"buildingCost": 170,
 		"wonderCost": 300,
 		"techs": [
 		  {
@@ -355,8 +355,8 @@
 		"columnNumber": 7,
 		"era": "Classical era",
 		"techCost": 350,
-		"buildingCost": 160,
-		"wonderCost": 400,
+		"buildingCost": 170,
+		"wonderCost": 395,
 		"techs": [
 		  {
 				"name": "Machinery",
