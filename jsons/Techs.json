@@ -282,13 +282,12 @@
 				"row": 4,
 				"prerequisites": ["Bronze Working"],
 				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"				
-			},	
-			{
-				"name": "Urban Planning",
+			 {
+				"name": "Engineering",
 				"row": 5,
-				"prerequisites": ["Construction","Code of Laws"],
-				"uniques": ["[+20]% production [in all cities]"],
-				"quote": "'Go up on to the wall of Uruk and walk around. Inspect the foundation platform and scrutinise the brickwork. Testify that its bricks are baked bricks. And that the Seven Counsellors must have laid its foundations. One square mile is city, one square mile is orchards, one square mile is claypits, as well as the open ground of Ishtar's temple. Three square miles and the open ground comprise Uruk.' - Epic of Gilgamesh"
+				"prerequisites": ["Construction"],
+				"uniques": ["Roads connect tiles across rivers"],
+				"quote": "'The story of civilization is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man's good.' - L. Sprague de Camp"
 			},
 			{
 				"name": "Monotheism",
@@ -320,18 +319,18 @@
 		"buildingCost": 170,
 		"wonderCost": 300,
 		"techs": [
-		  {
-				"name": "Engineering",
-				"row": 2,
-				"prerequisites": ["Urban Planning"],
-				"uniques": ["Roads connect tiles across rivers"],
-				"quote": "'The story of civilization is, in a sense, the story of engineering - that long and arduous struggle to make the forces of nature work for man's good.' - L. Sprague de Camp"			  
-				},	
-				{
+			{
 			  	"name": "Metal Casting",
-				"row": 1,
+				"row": 3,
 				"prerequisites": ["Iron Working"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"	
+			 },
+			{
+				"name": "Urban Planning",
+				"row": 5,
+				"prerequisites": ["Engineering"],
+				"uniques": ["[+20]% production [in all cities]"],
+				"quote": "'Go up on to the wall of Uruk and walk around. Inspect the foundation platform and scrutinise the brickwork. Testify that its bricks are baked bricks. And that the Seven Counsellors must have laid its foundations. One square mile is city, one square mile is orchards, one square mile is claypits, as well as the open ground of Ishtar's temple. Three square miles and the open ground comprise Uruk.' - Epic of Gilgamesh"	
 			 },
 			{
 				"name": "Public Works",
@@ -360,15 +359,15 @@
 		"techs": [
 		  {
 				"name": "Machinery",
-				"row": 1,
-				"prerequisites": ["Metal Casting","Food Processing","Wheeled Transport","Engineering"],
+				"row": 2,
+				"prerequisites": ["Metal Casting","Food Processing","Wheeled Transport",],
 				"uniques": ["Improves movement speed on roads"],
 				"quote": "'Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.' - Archimedes"
 			 },
 			{
 				"name": "Road Network",
-				"row": 2,
-				"prerequisites": ["Wheeled Transport","Engineering"],
+				"row": 3,
+				"prerequisites": ["Water Wheel","Wheeled Transport","Urban Planning"],
 				"uniques": ["Enables conversion of city production to [Culture]"],
 				"quote": "'A thousand roads lead men forever to Rome.' - Alian de Lille"
 			},
