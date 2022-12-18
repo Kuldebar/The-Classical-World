@@ -368,7 +368,7 @@
 			{
 				"name": "Road Network",
 				"row": 2,
-				"prerequisites": ["Wheeled Transport","Urban Planning","Machinery","Metal Casting",],
+				"prerequisites": ["Urban Planning","Machinery","Metal Casting",],
 				"uniques": ["Enables conversion of city production to [Culture]"],
 				"quote": "'A thousand roads lead men forever to Rome.' - Alian de Lille"
 			},
@@ -400,7 +400,7 @@
 			{
 				"name": "Interregnum",
 				"row": 6,
-				"prerequisites": ["Banking","Machinery","Civil Service","Road Network"],
+				"prerequisites": ["Banking","Civil Service","Road Network"],
 				"uniques": ["Only available <before discovering [Agriculture]>"],
 				"quote": "'Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning.' - Sir Winston Churchill"
 
