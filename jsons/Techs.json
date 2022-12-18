@@ -375,7 +375,7 @@
 			{
       	"name": "Civil Service",
 				"row": 4,
-				"prerequisites": ["Guilds","Public Works"],
+				"prerequisites": ["Public Works"],
 				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
       },
