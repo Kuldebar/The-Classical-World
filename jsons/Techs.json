@@ -178,7 +178,7 @@
 			{
 				"name": "Wheeled Transport",
 				"row": 2,
-				"prerequisites": ["The Wheel"],
+				"prerequisites": ["Horseback Riding","The Wheel"],
 				"quote": "'Throughout the ancient world, long before the invention of money, food was wealth—and control of food was power.' - Tom Standage, An Edible History of Humanity"
 			},
 			{
