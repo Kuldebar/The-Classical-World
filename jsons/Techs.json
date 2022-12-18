@@ -328,7 +328,7 @@
 			 },
 			{
 				"name": "Urban Planning",
-				"row": 5,
+				"row": 4,
 				"prerequisites": ["Engineering"],
 				"uniques": ["[+20]% production [in all cities]"],
 				"quote": "'Go up on to the wall of Uruk and walk around. Inspect the foundation platform and scrutinise the brickwork. Testify that its bricks are baked bricks. And that the Seven Counsellors must have laid its foundations. One square mile is city, one square mile is orchards, one square mile is claypits, as well as the open ground of Ishtar's temple. Three square miles and the open ground comprise Uruk.' - Epic of Gilgamesh"	
