@@ -155,7 +155,7 @@
 			{
 				"name": "Military Caste",
 				"row": 9,
-				"prerequisites": ["Hunter Specialization","Archery"],
+				"prerequisites": ["Hunter Specialization","Archery","Trapping"],
 				"quote": "'We sleep peaceably in our beds at night only because rough men stand ready to do violence on our behalf.' - George Orwell"
 				
 //COLUMN 3 <--------------------------------------- Three
