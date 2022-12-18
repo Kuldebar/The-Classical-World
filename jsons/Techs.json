@@ -336,7 +336,7 @@
 			{
 				"name": "Public Works",
 				"row": 5,
-				"prerequisites": ["Urban Planning","Monotheism","Currency"],
+				"prerequisites": ["Engineering","Monotheism","Currency"],
 				"uniques": ["[+20]% growth [in all cities]"],
 				"quote": "'Give them bread and circuses and they will never revolt.' - Juvenal"
 			},
