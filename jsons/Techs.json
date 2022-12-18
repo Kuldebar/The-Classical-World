@@ -322,7 +322,7 @@
 		"techs": [
 			{
 			  	"name": "Metal Casting",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Iron Working"],
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"	
 			 },
