@@ -77,16 +77,16 @@
 				"quote": "'Astrology is assured of recognition from pyschology, without further restrictions, because astrology represents the summation of all the psychological knowledge of antiquity.' - C.G.Jung"
 			},
 			{
-				"name": "Trapping",
+				"name": "Hunter Specialization",
 				"row": 8,
 				"prerequisites": ["Hunting"],
-				"quote": "'It’s a trap!' - Admiral Ackbar"
+				"quote": "'Life has a certain flavor for those who have fought and risked all that the sheltered and protected can never experience.' - John Stuart Mill"
 			},
 			{
-				"name": "Hunter Specialization",
+				"name": "Trapping",
 				"row": 9,
 				"prerequisites": ["Hunting"],
-				"quote": "'Life has a certain flavor for those who have fought and risked all that the sheltered and protected can never experience.' - John Stuart Mill"
+				"quote": "'It’s a trap!' - Admiral Ackbar"
 			},
 			{
 				"name": "Archery",
