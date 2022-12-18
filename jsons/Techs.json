@@ -282,7 +282,8 @@
 				"row": 4,
 				"prerequisites": ["Bronze Working"],
 				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"				
-			 {
+			},
+			{
 				"name": "Engineering",
 				"row": 5,
 				"prerequisites": ["Construction"],
