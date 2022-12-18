@@ -320,6 +320,13 @@
 		"buildingCost": 170,
 		"wonderCost": 300,
 		"techs": [
+		{
+				"name": "Machinery",
+				"row": 1,
+				"prerequisites": ["Water Screw","Food Processing","Wheeled Transport",],
+				"uniques": ["Improves movement speed on roads"],
+				"quote": "'Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.' - Archimedes"
+			 },
 			{
 			  	"name": "Metal Casting",
 				"row": 3,
@@ -358,17 +365,10 @@
 		"buildingCost": 170,
 		"wonderCost": 395,
 		"techs": [
-		  {
-				"name": "Machinery",
-				"row": 1,
-				"prerequisites": ["Metal Casting","Food Processing","Wheeled Transport",],
-				"uniques": ["Improves movement speed on roads"],
-				"quote": "'Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.' - Archimedes"
-			 },
 			{
 				"name": "Road Network",
 				"row": 2,
-				"prerequisites": ["Water Screw","Wheeled Transport","Urban Planning"],
+				"prerequisites": ["Wheeled Transport","Urban Planning","Machinery","Metal Casting",],
 				"uniques": ["Enables conversion of city production to [Culture]"],
 				"quote": "'A thousand roads lead men forever to Rome.' - Alian de Lille"
 			},
