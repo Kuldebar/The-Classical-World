@@ -367,7 +367,7 @@
 		"techs": [
 			{
 				"name": "Road Network",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Urban Planning","Machinery","Metal Casting",],
 				"uniques": ["Enables conversion of city production to [Culture]"],
 				"quote": "'A thousand roads lead men forever to Rome.' - Alian de Lille"
@@ -381,7 +381,7 @@
       },
       {
 				"name": "Banking",
-				"row": 6,
+				"row": 7,
         "prerequisites": ["Guilds","Public Works"],
 				"quote": "'I believe that banking institutions are more dangerous to our liberties than standing armies.' – Thomas Jefferson"
 			
