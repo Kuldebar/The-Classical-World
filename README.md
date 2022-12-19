@@ -1,5 +1,5 @@
 ![the height of the Classical Era](https://user-images.githubusercontent.com/117689753/206523764-cae42c38-9425-4ff4-bbeb-27b3201fb211.jpg)
-# Classical-World-Tech-Tree
+# The-Classical-World
 
 
 This mod endeavors to reimagine the Classical World in UnCiv.
