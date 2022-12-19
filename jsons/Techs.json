@@ -244,7 +244,7 @@
      {
 				"name": "Philosophy",
 				"row": 6,
-				"prerequisites": ["Writing"],
+				"prerequisites": ["Writing","Medicine"],
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
@@ -343,7 +343,7 @@
 			{
 				"name": "Public Works",
 				"row": 6,
-				"prerequisites": ["Engineering","Monotheism","Currency"],
+				"prerequisites": ["Engineering","Monotheism","Drama and Poetry"],
 				"uniques": ["[+20]% growth [in all cities]"],
 				"quote": "'Give them bread and circuses and they will never revolt.' - Juvenal"
 			},
