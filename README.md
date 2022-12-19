@@ -39,5 +39,5 @@ Civilizations that "fit" into the Classical World. A lot of this will be based o
 
 "Classical antiquity, historical period spanning from the output of ancient Greek author Homer in the 8th century BCE to the decline of the Roman Empire in the 5th century CE. It encompassed Greco-Roman culture, which played a major role in the Mediterranean sphere of influence and in the creation of Western civilization, shaping areas as diverse as law, architecture, art, language, poetry, rhetoric, politics, and philosophy." ~ Encyclopedia Britannica
 
-
+![CaesareaPainting](https://user-images.githubusercontent.com/117689753/204924280-c4c40ff7-afe6-4ee3-a041-58de515d01d6.jpg)
 
