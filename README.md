@@ -2,9 +2,12 @@
 # Classical-World-Tech-Tree
 
 
-This mod approaches the remaking of the Classical World in UnCiv.
+This mod endeavors to reimagine the Classical World in UnCiv.
 
-No advances beyond the Classical Era. Starting at 8000 BCE with adjusted speed and research costs. Buildings have been added along with changes to unit promotions.
+- No advances beyond the Classical Era. 
+- Starting at 8000 BCE with adjusted speed and research costs. 
+- Robust Technology Tree offers flexibility but discourages "rushing" playstyle.
+- Buildings have been added along with changes to unit promotions.
 
 I have taken a modular approach to ensure the mod stays playable as it is being worked on. 
 
@@ -36,5 +39,5 @@ Civilizations that "fit" into the Classical World. A lot of this will be based o
 
 "Classical antiquity, historical period spanning from the output of ancient Greek author Homer in the 8th century BCE to the decline of the Roman Empire in the 5th century CE. It encompassed Greco-Roman culture, which played a major role in the Mediterranean sphere of influence and in the creation of Western civilization, shaping areas as diverse as law, architecture, art, language, poetry, rhetoric, politics, and philosophy." ~ Encyclopedia Britannica
 
-https://github.com/Kuldebar/Classical-World-Tech-Tree
+
 
