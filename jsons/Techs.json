@@ -119,14 +119,14 @@
 			{
 				"name": "Horseback Riding",
 				"row": 3,
-				"prerequisites": ["Animal Husbandry",],
+				"prerequisites": ["Animal Husbandry"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{			
 				"name": "Mining",
 				"row": 4,
 				"prerequisites": ["Quarrying"],
-				"quote": "'The meek shall inherit the Earth, but not its mineral rights.' - J. Paul Getty"
+				"quote": "'Some of the earliest examples of mining for chert (flint) nodules comes from along the Nile valley in Egypt, where numerous examples of mining shafts have been discovered from Palaeolithic times, c. 38 - 33, 000 BC  But mining in the Nile Valley goes even further back in time,  Vermeersch and Paulissen report on four other sites, Qena and Nazlet Safaha, dating to 50,000 years ago, and Nazlet Khater-2 and Beit Allam, which date to 60,000 years ago.' - ancient-wisdom website"
 			}
 			{
 				"name": "Brickwork",
