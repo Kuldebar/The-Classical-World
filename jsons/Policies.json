@@ -587,7 +587,7 @@
 		"uniques": [
 			"[-33]% maintenance costs <for [All] units>",
 			"Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
-			"Only available <before adopting [Order]>"
+			"Only available <before adopting [Order]>","Only available <after adopting [Civics]>"
 		],
 		"policies": [{
 				"name": "Populism",
@@ -680,8 +680,8 @@
 				{
 					"name": "Division of Labor",
 					"uniques": [
-						"[+25]% [Food] from every [City]",
-						"[+100]% Production when constructing [Production] buildings [in all cities]"
+						"[+2 Food] from every [Plantation]"
+						"[+100]% Production when constructing [Culture] buildings [in all cities]"
 					],
 					"row": 1,
 					"column": 3
