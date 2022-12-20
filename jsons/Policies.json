@@ -725,7 +725,7 @@
 																														"name": "Order Complete",
 																														"uniques": [
 																															"[+2 Food, +2 Production, +1 Science, +2 Gold, +2 Culture] [in all cities]",
-                ]
+                
             }
         ]
     },
@@ -738,7 +738,7 @@
             "Diplomatic": 20,
             "Domination": 0,
             "Scientific": 10
-                 ]
+                 
             }
         ]
     },
@@ -751,7 +751,7 @@
             "Diplomatic": 10,
             "Domination": 10,
             "Scientific": 10
-                 ]
+                 
             }
         ]
     },
@@ -764,7 +764,7 @@
             "Diplomatic": 10,
             "Domination": 10,
             "Scientific": 60
-                 ]
+                 
             }
         ]
     },
@@ -777,7 +777,7 @@
             "Diplomatic": 50,
             "Domination": 40,
             "Scientific": 50
-                ]
+                
             }
         ]
     }
