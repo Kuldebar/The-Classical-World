@@ -725,9 +725,10 @@
 																														"name": "Order Complete",
 																														"uniques": [
 																															"[+2 Food, +2 Production, +1 Science, +2 Gold, +2 Culture] [in all cities]",
-																															"May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
-   },
+            }
+        ]
+    },
     {
         "name": "Patronage",
         "era": "Medieval era",
@@ -737,7 +738,10 @@
             "Diplomatic": 20,
             "Domination": 0,
             "Scientific": 10
-     },
+                 ]
+            }
+        ]
+    },
     {
        "name": "Liberty",
         "era": "Renaissance era",
@@ -747,6 +751,9 @@
             "Diplomatic": 10,
             "Domination": 10,
             "Scientific": 10
+                 ]
+            }
+        ]
     },
     {
         "name": "Rationalism",
@@ -757,7 +764,10 @@
             "Diplomatic": 10,
             "Domination": 10,
             "Scientific": 60
-  },
+                 ]
+            }
+        ]
+    },
     {
         "name": "Freedom",
         "era": "Industrial era",
