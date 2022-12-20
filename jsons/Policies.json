@@ -152,6 +152,7 @@
             {
                 "name": "Industry Complete",
                 "uniques": ["Free Great Person"]
+                ]
             }
         ]
     },
@@ -652,7 +653,7 @@
         ],
         "policies": [
             {
-                "name": "United Front",
+                "name": "Conscription",
                 "uniques": [
                     "Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
                 ],
@@ -907,6 +908,7 @@
                 "name": "Liberty Complete",
                 "uniques": ["Free Great Person"]
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+                ]
             }
         ]
     },
