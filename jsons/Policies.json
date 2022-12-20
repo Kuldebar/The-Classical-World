@@ -61,7 +61,7 @@
 				"name": "Tradition Complete",
 				"uniques": [
 					"[+15]% growth [in all cities]",
-					"Provides a [Birick Works] in your first [4] cities for free"
+					"Provides a [Brick Works] in your first [4] cities for free"
 				]
 			}
 		]
@@ -164,7 +164,7 @@
 				"column": 4
 			},
 			{
-				"name": "Military Tradition",
+				"name": "Veteran Cadre",
 				"uniques": [
 					"[+50]% XP gained from combat <for [Military] units>"
 				],
@@ -678,7 +678,7 @@
 					"column": 1
 				},
 				{
-					"name": "Directed Economy",
+					"name": "Division of Labor",
 					"uniques": [
 						"[+25]% [Food] from every [City]",
 						"[+100]% Production when constructing [Production] buildings [in all cities]"
@@ -697,10 +697,10 @@
 				{
 					"name": "Caste System",
 					"requires": [
-						"Directed Economy"
+						"Division of Labor"
 					],
 					"uniques": [
-						"[-15]% maintenance cost for buildings [in all cities]"
+						"[+100]% Production when constructing [Walls] buildings [in all cities]"
 					],
 					"row": 2,
 					"column": 3
