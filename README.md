@@ -19,9 +19,13 @@ Technology tree with applicable buildings. ✅
 
 All Policies revised for Ancient and Classical Eras.
 
+- The Classical World Religions:
+
+Religions tailored for Ancient and Classical Eras.
+
 - The Classical World Wonders:
 
-Some new additions, changes and removal of some Wonders.
+Some new additions, changes and removal of some Wonders.  Every Classical Civilization gets Civ-unique Wonders, no more Great Pyramids in Rome anymore! Even the Renowned Roman Engineers had to limit Monument stealing to Obelisks.
 
 - The Classical World City-states:
 
