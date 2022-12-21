@@ -52,8 +52,17 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["[+2 Production] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]","[+1] Unit Supply"],
+		"Connects trade routes over water","Must be next to [Coast]","[+1] Unit Supply"],	
 		"requiredTech": "Seafaring",
+   },
+    {
+        "name": "Storehouse",
+        "cost": 200,
+	"food": 2,
+	"production": 2,
+	"maintenance": 2,
+	"requiredBuilding": "Granary",
+	"requiredTech": "Gristmill"			
 	},
 	{
 		"name": "Shipyard",
