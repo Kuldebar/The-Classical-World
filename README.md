@@ -15,7 +15,7 @@ I have taken a modular approach to ensure the mod stays playable as it is being 
 
 Technology tree with applicable buildings. ✅ (99% until whole is done)
 
-- The Classical World Policies:
+- The Classical World Policies: ✅
 
 All Policies revised for Ancient and Classical Eras.
 
