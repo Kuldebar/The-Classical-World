@@ -639,7 +639,7 @@
 		"uniques": [
 			"[+1 Happiness] [in all cities]",
 			"Only available <before adopting [Imperialism]>",
-			"Only available <Before adopting [Civics]>"
+			"Only available <before adopting [Civics]>"
 		],
 		"policies": [{
 					"name": "Conscription",
