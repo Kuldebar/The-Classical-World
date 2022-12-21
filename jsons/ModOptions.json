@@ -1,4 +1,7 @@
 {
+"nationsToRemove":["Rio de Janeiro","Helsinki","Dublin","Edinburgh"],
+},
+{
     "isBaseRuleset": false,
 },
 {constants:{maxXPfromBarbarians:10000}}
