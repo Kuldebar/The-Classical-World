@@ -11,9 +11,9 @@ This mod endeavors to reimagine the Classical World in UnCiv.
 
 I have taken a modular approach to ensure the mod stays playable as it is being worked on. 
 
-- The Classical World Tech Tree:
+- The Classical World Tech Tree: ✅ (99% until whole is done)
 
-Technology tree with applicable buildings. ✅ (99% until whole is done)
+Technology tree with applicable buildings. 
 
 - The Classical World Policies: ✅
 
