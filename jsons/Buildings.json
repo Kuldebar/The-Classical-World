@@ -103,6 +103,15 @@
 		"percentStatBonus": {"science": 5},
 		"specialistSlots": {"Scientist": 1},
     "requiredTech": "Astrology",
+	},
+	{
+		"name": "Potter",
+		"maintenance": 1,
+		"Production": 1,
+		"Gold": 2,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Pottery"	  
 		},
 		{
 		"name": "Slaughterhouse",
