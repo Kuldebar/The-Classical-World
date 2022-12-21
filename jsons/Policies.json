@@ -55,7 +55,7 @@
                 "uniques": [
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]"
                 ],
-                "requires": ["Hierarchy"],
+                "requires": ["Hierarchal Organization"],
                 "row": 2,
                 "column": 4
             },
