@@ -125,8 +125,8 @@
 		{
 		"name": "Slaughterhouse",
 		"cost": 150,
-		"food": 1,
-		"maintenance": 2,
+		"food": 2,
+		"maintenance": 1,
 		"requiredNearbyImprovedResources":["Sheep","Deer","Cattle","Horses"],
 		"requiredTech": "Food Processing",
 		},
@@ -746,7 +746,7 @@
 		"requiredTech": "Machinery"
 	},
 	{
-		"name": "Clothmaker",
+		"name": "Weaver",
 		"requiredNearbyImprovedResources": ["Cotton", "Silk", "Dyes", "Sheep"],
 		"hurryCostModifier": 40,
 		"maintenance": 1,
