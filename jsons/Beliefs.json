@@ -19,13 +19,13 @@
         "name": "Faith Healers",
         "type": "Pantheon",
         "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing"]
-        // This should be worded better
+      
     },
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
         "uniques": ["[+10]% growth [in this city]"]
-        // Preferably I would not have a cityFilter here, but doing so requires no additional implementation
+     
     },
     {
         "name": "God of Craftsman",
@@ -33,7 +33,7 @@
         "uniques": [
                    "[+1 Production] <in cities with at least [3] [Population]>",
                    "[+1 Faith] from all [Production] buildings"
-                   ]//Added faith generation to all production stuff
+                   ]
     },
     {
         "name": "God of the Open Sky",
@@ -53,7 +53,7 @@
         "type": "Pantheon",
         "uniques": [
                    "[+1 Happiness] <in cities with at least [6] [Population]>",
-                   "[+1 Faith] from every [Shrine] <in cities with at least [6] [Population]>"
+                   "[+1 Faith] from every [Shrine] <in cities with at least [6] [Population]>"]
     },
     {
         "name": "Goddess of Festivals",
