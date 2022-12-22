@@ -89,14 +89,14 @@
         "name": "Messenger of the Gods",
         "type": "Pantheon",
         "uniques": [
-                   "[+2 Science, +2 Faith] from each Trade Route"
+                   "[+2 Science, +2 Faith] from each Trade Route"]
      },
     {
         "name": "Monument to the Gods",
         "type": "Pantheon",
         "uniques": [
                    "[+15]% Production when constructing [All] wonders [in cities following this religion]",
-                   "[+3 Faith] from every [Wonder]"
+                   "[+3 Faith] from every [Wonder]"]
     },
     {
         "name": "One with Nature",
@@ -119,20 +119,20 @@
         "name": "Religious Settlements",
         "type": "Follower",
         "uniques": [
-                   "[-15]% Culture cost of natural border growth [in cities following this religion]"
+                   "[-15]% Culture cost of natural border growth [in cities following this religion]"]
     },
     {
         "name": "Sacred Path",
         "type": "Pantheon",
         "uniques": [
-                   "[+1 Culture, +1 Faith] from every [Jungle]","[+1 Culture, +1 Faith] from every [Forest]"
+                   "[+1 Culture, +1 Faith] from every [Jungle]","[+1 Culture, +1 Faith] from every [Forest]"]
     },
     {
         "name": "Sacred Waters",
         "type": "Pantheon",
         "uniques": [
                    "[+1 Happiness] in cities on [River] tiles",
-                   "[+1 Faith] from every [Fresh Water] <within [2] tiles of a [City center]>"
+                   "[+1 Faith] from every [Fresh Water] <within [2] tiles of a [City center]>"]
     },
     {
         "name": "Stone Circles",
