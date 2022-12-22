@@ -72,9 +72,9 @@
         "uniques": [
                    "[+30]% Strength for cities <when attacking>",
                    "[+1 Faith] from every [Walls]",
-                   "[+1 Faith] from every [Castle]",
-                   "[+1 Faith] from every [Arsenal]",
-                   "[+1 Faith] from every [Military Base]"
+                   "[+1 Faith] from every [Fort]",
+                   "[+1 Faith] from every [Barracks]",
+                   "[+1 Faith] from every [Garrison]"
                    ]//Faith generation for defense stuff. 
     },
     {
@@ -103,7 +103,7 @@
         "name": "Oral Tradition",
         "type": "Pantheon",
         "uniques": [
-                   "[+1 Culture, +1 Faith] from every [Plantation]"
+                   "[+1 Culture, +1 Faith] from every [Plantation]","[+1 Culture, +1 Faith] from every [Camp]"
                    ]//Again with the adding of the faiths
     },
     {
@@ -117,7 +117,7 @@
         "name": "Sacred Path",
         "type": "Pantheon",
         "uniques": [
-                   "[+1 Culture, +1 Faith] from every [Jungle]"
+                   "[+1 Culture, +1 Faith] from every [Jungle]","[+1 Culture, +1 Faith] from every [Forest]"
                    ]//You know the drill  lads.
     },
     {
