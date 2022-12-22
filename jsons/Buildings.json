@@ -124,9 +124,10 @@
 		},
 		{
 		"name": "Ropewalk",
-		"Gold": 2,
+		"Gold": 3,
 		"maintenance": 1,
-		"uniques": ["[+1 Production] from [Marsh] tiles [in this city]","[+1 Production] from [Farm] tiles [in this city]","[+1 Production] from [Cattle] tiles [in this city]","[+1 Production] from [Deer] tiles [in this city]","[+1 Production] from [Horses] tiles [in this city]","[+1 Production] from [Fur] tiles [in this city]"],
+		"uniques": ["[+1 Production] from [Marsh] tiles [in this city]","[+1 Production] from [Forest] tiles [in this city]","[+1 Production] from [Farm] tiles [in this city]","[+1 Production] from [Cattle] tiles [in this city]","[+1 Production] from [Deer] tiles [in this city]","[+1 Production] from [Horses] tiles [in this city]","[+1 Production] from [Furs] tiles [in this city]"],
+		"requiredNearbyImprovedResources":["Sheep","Deer","Cattle","Horses"],
 		"requiredTech": "Gathering",
 		},
 		{
@@ -135,7 +136,7 @@
 		"Production": 1,
 		"maintenance": 1,
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
-			"[+1 Food] from [Coast] tiles [in this city]","[+1 Food] from [Fish] tiles [in this city]","[+1 Food] from [Crab] tiles [in this city]"],
+			"[+1 Food] from [Coast] tiles [in this city]","[+1 Food] from [Fish] tiles [in this city]","[+1 Food] from [Crab] tiles [in this city]"],		
 		"requiredTech": "Hunting",
 		"requiredBuilding":"Ropewalk",
 		},
