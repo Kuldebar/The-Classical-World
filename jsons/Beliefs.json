@@ -26,27 +26,28 @@
         "type": "Pantheon",
         "uniques": ["[+10]% growth [in this city]"]
      
-    },
+    },//Ditto
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
         "uniques": [
                    "[+1 Production] <in cities with at least [3] [Population]>",
                    "[+1 Faith] from all [Production] buildings"
-                   ]
+                   ]//Added faith generation to all production stuff 
     },
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
         "uniques": [
                    "[+1 Culture, +1 Faith] from every [Pasture]"
+                   ]//Just gave this a Faith booster shot 
     },
     {
         "name": "God of the Sea",
         "type": "Pantheon",
         "uniques": [
                    "[+1 Production, +1 Faith] from every [Fishing Boats]"
-                   ]
+                   ]//Same drill.
     },
     {
         "name": "God of War",
