@@ -127,7 +127,7 @@
 		"Gold": 3,
 		"maintenance": 1,
 		"uniques": ["[+1 Production] from [Marsh] tiles [in this city]","[+1 Production] from [Forest] tiles [in this city]","[+1 Production] from [Farm] tiles [in this city]","[+1 Production] from [Cattle] tiles [in this city]","[+1 Production] from [Deer] tiles [in this city]","[+1 Production] from [Horses] tiles [in this city]","[+1 Production] from [Furs] tiles [in this city]"],
-		"requiredNearbyImprovedResources":["Sheep","Deer","Cattle","Horses"],
+		"requiredNearbyImprovedResources":["Sheep","Deer","Cattle","Horses","Fish","Crab","Whales"],
 		"requiredTech": "Gathering",
 		},
 		{
