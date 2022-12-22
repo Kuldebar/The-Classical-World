@@ -88,6 +88,26 @@
     "requiredTech":"Gristmill",
 	},
 	{
+		"name": "Woodworking Shop",
+		"maintenance": 1,
+		"production": 2,
+		"gold": 2,
+		"specialistSlots": {"Engineer": 1},
+		"uniques": ["[+1 Production] from [Jungle] tiles [in this city]", "[+1 Production] from [Forest] tiles [in this city]"],
+		"hurryCostModifier": 25, 	
+		"requiredTech": "Gathering"
+	},
+	{
+		"name": "Lumber Yard",
+		"maintenance": 2,
+		"production": 2,
+		"uniques": ["[+1 Gold] from [Jungle] tiles [in this city]", "[+1 Gold] from [Forest] tiles [in this city]"],
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Forest","Jungle"],
+		"requiredTech": "Construction"
+		
+	},
+	{
     "name": "Hunter's Lodge",
     "cost": 60,
     "food":1,
@@ -116,15 +136,15 @@
 	{
 		"name": "Potter",
 		"maintenance": 1,
-		"Production": 1,
-		"Gold": 2,
+		"production": 1,
+		"gold": 2,
 		"culture": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Pottery"	 
 		},
 		{
 		"name": "Ropewalk",
-		"Gold": 3,
+		"gold": 3,
 		"maintenance": 1,
 		"uniques": ["[+1 Production] from [Marsh] tiles [in this city]","[+1 Production] from [Forest] tiles [in this city]","[+1 Production] from [Farm] tiles [in this city]","[+1 Production] from [Cattle] tiles [in this city]","[+1 Production] from [Deer] tiles [in this city]","[+1 Production] from [Horses] tiles [in this city]","[+1 Production] from [Furs] tiles [in this city]"],
 		"requiredNearbyImprovedResources":["Sheep","Deer","Cattle","Horses","Fish","Crab","Whales"],
@@ -132,8 +152,8 @@
 		},
 		{
 		"name": "Net Maker",
-		"Gold": 3,
-		"Production": 1,
+		"gold": 3,
+		"production": 1,
 		"maintenance": 1,
 		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
 			"[+1 Food] from [Coast] tiles [in this city]","[+1 Food] from [Fish] tiles [in this city]","[+1 Food] from [Crab] tiles [in this city]"],		
