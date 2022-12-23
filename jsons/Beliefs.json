@@ -102,6 +102,15 @@
                    "[+1 Culture, +1 Faith] from every [Plantation]"
                    ]//Again with the adding of the faiths
     },
+
+    {
+
+        "name": "Religious Texts",
+
+        "type": "Enhancer",
+
+        "uniques": ["[+34]% Natural religion spread [in all cities]", "[+34]% Natural religion spread [in all cities] <after discovering [Seafaring]>"]
+    },
     {
         "name": "Religious Settlements",
         "type": "Follower",
