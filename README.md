@@ -31,9 +31,56 @@ Some new additions, changes and removal of some Wonders.  Every Classical Civili
 
 Mostly renaming to avoid Vancouver in Carpathia, etc. Will likely incorporate changes from other city-state mods.
 
-- The Classical World Civilizations:
+- The Classical World Civilizations List
 
-Civilizations that "fit" into the Classical World. A lot of this will be based on existing game and mod content but with leader and dialog changes. At least one new Civ will be added: The Indus Valley, AKA Harappa.
+The following 22 Civs will be imported or created for play in The Classical World:
+
+- Armenia
+
+- Assyria
+
+- Babylon
+
+- Byzantium
+
+- Carthage
+
+- Celts
+
+- China
+
+- Dacia
+
+- Egypt
+
+- Epirus
+
+- Greece
+
+- Harappa
+
+- Israel
+
+- Macrobia
+
+- Maurya
+
+- Persia
+
+- Phoenicia
+
+- Rome
+
+- Scythia
+
+- Sumeria
+
+- The Hittites
+
+- The Huns
+
+
+
 
 - The Classical World Map:
 
