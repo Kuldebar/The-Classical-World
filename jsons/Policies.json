@@ -193,9 +193,9 @@
                 "uniques": [
                     "[-33]% Gold cost of upgrading <for [Military] units>",
                     "[+1 Happiness] from every [Walls]",
-                    "[+1 Happiness] from every [Castle]",
-                    "[+1 Happiness] from every [Arsenal]",
-                    "[+1 Happiness] from every [Military Base]"
+                    "[+1 Happiness] from every [Garrison]",
+                    "[+1 Happiness] from every [Fort]",
+                    "[+1 Happiness] from every [Barracks]"
                 ],
                 "requires": ["Tactics"],
                 "row": 3,
