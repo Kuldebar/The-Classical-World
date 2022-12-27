@@ -2,7 +2,7 @@
 # The-Classical-World
 
 
-This mod endeavors to reimagine the Classical World in UnCiv.
+This ruleset mod endeavors to reimagine the Classical World in UnCiv.
 
 - No advances beyond the Classical Era. 
 - Starting at 8000 BCE with adjusted speed and research costs. 
