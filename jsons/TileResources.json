@@ -74,7 +74,6 @@
 		"improvement": "Fishing Boats",
 		"uniques": ["Generated on every [10] tiles <in [Featureless] [Coast] tiles>"]
 	},
-	/*
 	{
 		"name": "Bison",
 		"resourceType": "Bonus",
@@ -83,7 +82,6 @@
 		"improvement": "Camp",
 		"improvementStats": {"production": 1}
 	},
-	*/
 	
 	// Strategic resources
 	{
@@ -209,6 +207,24 @@
 	},
 	
 	// Luxury resources
+	{
+		"name": "Myrrh",
+		"resourceType": "Luxury",
+		"gold": 1,
+	},
+	{
+		{
+		"name": "Frankincense",
+		"resourceType": "Luxury",
+		"gold": 1,
+	},
+	{
+			{
+		"name": "Fine Clay",
+		"resourceType": "Luxury",
+		"gold": 1,
+		"culture": 1,
+	},
 	{
 		"name": "Furs",
 		"resourceType": "Luxury",
