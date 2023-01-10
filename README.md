@@ -34,7 +34,7 @@ Mostly renaming to avoid Vancouver in Carpathia, etc. Will likely incorporate ch
 
 - The Classical World Civilizations List
 
-The following 22 Civs will be imported or created for play in The Classical World:
+The following 24 Civs will be imported or created for play in The Classical World:
 
 - Aksum
 
