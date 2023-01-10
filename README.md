@@ -1,4 +1,5 @@
-![the height of the Classical Era](https://user-images.githubusercontent.com/117689753/206523764-cae42c38-9425-4ff4-bbeb-27b3201fb211.jpg)
+![pomponious-mela-world-map](https://user-images.githubusercontent.com/117689753/211590020-c1c5f49d-91a6-4991-802f-2a8e609c4eb6.jpg)
+
 # The-Classical-World
 
 
@@ -35,6 +36,8 @@ Mostly renaming to avoid Vancouver in Carpathia, etc. Will likely incorporate ch
 
 The following 22 Civs will be imported or created for play in The Classical World:
 
+- Aksum
+
 - Armenia
 
 - Assyria
@@ -45,7 +48,7 @@ The following 22 Civs will be imported or created for play in The Classical Worl
 
 - Carthage
 
-- Celts
+- Celtic Tribes
 
 - China
 
@@ -55,13 +58,13 @@ The following 22 Civs will be imported or created for play in The Classical Worl
 
 - Epirus
 
+- Germanic Tribes
+
 - Greece
 
 - Harappa
 
 - Israel
-
-- Macrobia
 
 - Maurya
 
